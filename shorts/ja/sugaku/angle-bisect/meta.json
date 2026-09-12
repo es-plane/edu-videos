@@ -1,0 +1,12 @@
+{
+  "id": "angle-bisect",
+  "subject": "sugaku",
+  "title_ja": "クイズ:角を半分にする線",
+  "title_en": "Angle Bisect Quiz",
+  "duration_s": 16.04,
+  "resolution": "1080x1920",
+  "winner": "V7 (quiz+3map fusion, 39/40)",
+  "pattern_id": "p56-math-construct",
+  "curriculum_beat": "角の二等分線—クイズ型",
+  "path": "shorts/ja/sugaku/angle-bisect/short.mp4"
+}
