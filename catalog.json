@@ -279,7 +279,7 @@
     {
       "id": "bunpou-warning",
       "subject": "kokugo",
-      "title_ja": "90%が間違える「きれい」は何詞",
+      "title_ja": "「きれい」は何詞?落とし穴クイズ",
       "title_en": "Keiyodoushi Trap",
       "duration_s": 16.55,
       "resolution": "1080x1920",
@@ -291,7 +291,7 @@
     {
       "id": "function-warning",
       "subject": "sugaku",
-      "title_ja": "90%が間違える比例と反比例",
+      "title_ja": "まちがえやすい比例と反比例",
       "title_en": "Proportion Trap",
       "duration_s": 16.55,
       "resolution": "1080x1920",
@@ -303,7 +303,7 @@
     {
       "id": "proof-sanpen",
       "subject": "sugaku",
-      "title_ja": "90%が間違える合同の条件",
+      "title_ja": "合同の条件・落とし穴クイズ",
       "title_en": "Congruence Trap",
       "duration_s": 19.05,
       "resolution": "1080x1920",
@@ -339,7 +339,7 @@
     {
       "id": "constitution-25",
       "subject": "shakai",
-      "title_ja": "90%が間違える25条の権利",
+      "title_ja": "25条の権利・落とし穴クイズ",
       "title_en": "Article 25 Quiz",
       "duration_s": 17.56,
       "resolution": "1080x1920",
@@ -351,7 +351,7 @@
     {
       "id": "keihin-keiyo",
       "subject": "shakai",
-      "title_ja": "90%が落ちる京浜と京葉",
+      "title_ja": "まちがえやすい京浜と京葉",
       "title_en": "Keihin vs Keiyo",
       "duration_s": 17.05,
       "resolution": "1080x1920",
@@ -363,7 +363,7 @@
     {
       "id": "force-reaction",
       "subject": "rika",
-      "title_ja": "90%が間違える作用反作用",
+      "title_ja": "作用反作用の落とし穴",
       "title_en": "Action-Reaction Trap",
       "duration_s": 18.05,
       "resolution": "1080x1920",
@@ -387,7 +387,7 @@
     {
       "id": "probability-coin",
       "subject": "sugaku",
-      "title_ja": "90%が間違えるコイン2枚",
+      "title_ja": "コイン2枚の数え落とし",
       "title_en": "Coin Trap",
       "duration_s": 21.06,
       "resolution": "1080x1920",
@@ -411,7 +411,7 @@
     {
       "id": "naishin-3views",
       "subject": "manabi",
-      "title_ja": "90%が間違える内申の態度",
+      "title_ja": "内申の態度・見落としがちポイント",
       "title_en": "Naishin Attitude",
       "duration_s": 17.05,
       "resolution": "1080x1920",
@@ -423,7 +423,7 @@
     {
       "id": "network-gentei",
       "subject": "joho",
-      "title_ja": "90%が間違える限定公開",
+      "title_ja": "限定公開の落とし穴",
       "title_en": "Limited-Post Myth",
       "duration_s": 19.56,
       "resolution": "1080x1920",
@@ -435,7 +435,7 @@
     {
       "id": "energy-convert",
       "subject": "joho",
-      "title_ja": "90%が間違える電気の使う作る",
+      "title_ja": "電気の使う作る・混同クイズ",
       "title_en": "Energy Conversion Trap",
       "duration_s": 19.65,
       "resolution": "1080x1920",
@@ -447,7 +447,7 @@
     {
       "id": "quake-shindo",
       "subject": "rika",
-      "title_ja": "90%が間違える震度と規模",
+      "title_ja": "震度と規模の混同クイズ",
       "title_en": "Shindo vs Magnitude",
       "duration_s": 18.05,
       "resolution": "1080x1920",
@@ -459,7 +459,7 @@
     {
       "id": "perfect-kako",
       "subject": "eigo",
-      "title_ja": "90%が間違える過去形との混同",
+      "title_ja": "過去形との混同クイズ",
       "title_en": "Present Perfect Trap",
       "duration_s": 16.04,
       "resolution": "1080x1920",
@@ -483,7 +483,7 @@
     {
       "id": "kodai-jomon",
       "subject": "shakai",
-      "title_ja": "90%が間違える縄文と弥生",
+      "title_ja": "縄文と弥生の見分けクイズ",
       "title_en": "Jomon vs Yayoi",
       "duration_s": 18.56,
       "resolution": "1080x1920",
@@ -495,7 +495,7 @@
     {
       "id": "recap2-trio",
       "subject": "recap",
-      "title_ja": "90%総復習:合同確率憲法",
+      "title_ja": "総復習3連発:合同確率憲法",
       "title_en": "Recap Trio",
       "duration_s": 19.56,
       "resolution": "1080x1920",
@@ -507,7 +507,7 @@
     {
       "id": "can-trap",
       "subject": "eigo",
-      "title_ja": "90%が間違えるcanの罠",
+      "title_ja": "canの罠:toをつけちゃダメ",
       "title_en": "Can Trap",
       "duration_s": 20.54,
       "resolution": "1080x1920",
@@ -531,7 +531,7 @@
     {
       "id": "inflation-deflation",
       "subject": "shakai",
-      "title_ja": "90%が間違えるインフレとデフレ",
+      "title_ja": "インフレとデフレの混同クイズ",
       "title_en": "Inflation vs Deflation",
       "duration_s": 17.05,
       "resolution": "1080x1920",
@@ -555,7 +555,7 @@
     {
       "id": "kanbun-reten",
       "subject": "kokugo",
-      "title_ja": "90%漢文:春眠どれから読む",
+      "title_ja": "漢文:春眠どれから読む",
       "title_en": "Kanbun Re-ten Quiz",
       "duration_s": 19.56,
       "resolution": "1080x1920",
@@ -579,7 +579,7 @@
     {
       "id": "because-trap",
       "subject": "eigo",
-      "title_ja": "90%が間違えるbecauseの後ろ",
+      "title_ja": "becauseの後ろ・落とし穴",
       "title_en": "Because Trap",
       "duration_s": 17.56,
       "resolution": "1080x1920",
@@ -615,7 +615,7 @@
     {
       "id": "front-kanrei",
       "subject": "rika",
-      "title_ja": "90%急な強い雨はどっち",
+      "title_ja": "急な強い雨はどっち",
       "title_en": "Cold Front Quiz",
       "duration_s": 19.05,
       "resolution": "1080x1920",
@@ -627,7 +627,7 @@
     {
       "id": "shushoku-trap",
       "subject": "kokugo",
-      "title_ja": "90%が間違える修飾の罠",
+      "title_ja": "修飾の落とし穴クイズ",
       "title_en": "Modifier Trap",
       "duration_s": 19.05,
       "resolution": "1080x1920",
@@ -639,7 +639,7 @@
     {
       "id": "recap3-trio",
       "subject": "recap",
-      "title_ja": "90%総復習:can不等式漢文",
+      "title_ja": "総復習3連発:can不等式漢文",
       "title_en": "Recap Trio 3",
       "duration_s": 19.05,
       "resolution": "1080x1920",
@@ -699,7 +699,7 @@
     {
       "id": "recap4-trap",
       "subject": "recap",
-      "title_ja": "90%誤答3連発の総復習",
+      "title_ja": "誤答3連発の総復習",
       "title_en": "Recap Trap Trio",
       "duration_s": 25.05,
       "resolution": "1080x1920",
@@ -711,7 +711,7 @@
     {
       "id": "tame-gono",
       "subject": "eigo",
-      "title_ja": "90%が間違えるための語順",
+      "title_ja": "ための語順・落とし穴",
       "title_en": "Tame Gono Quiz",
       "duration_s": 17.05,
       "resolution": "1080x1920",
@@ -723,7 +723,7 @@
     {
       "id": "asa-condition",
       "subject": "sugaku",
-      "title_ja": "90%が間違える一辺両端角",
+      "title_ja": "一辺両端角の落とし穴",
       "title_en": "ASA Condition Quiz",
       "duration_s": 20.05,
       "resolution": "1080x1920",
@@ -771,7 +771,7 @@
     {
       "id": "ikusei-3tips",
       "subject": "joho",
-      "title_ja": "90%が知らない育てる3つのコツ",
+      "title_ja": "育てる3つのコツ・見落としがち",
       "title_en": "Cultivation Tips",
       "duration_s": 21.06,
       "resolution": "1080x1920",
@@ -795,7 +795,7 @@
     {
       "id": "space-mikazuki",
       "subject": "rika",
-      "title_ja": "90%天体の総復習クイズ",
+      "title_ja": "天体の総復習クイズ",
       "title_en": "Moon Quiz",
       "duration_s": 20.05,
       "resolution": "1080x1920",
@@ -807,7 +807,7 @@
     {
       "id": "konkyo-sagashi",
       "subject": "kokugo",
-      "title_ja": "90%が間違える根拠探し",
+      "title_ja": "根拠探しの落とし穴",
       "title_en": "Evidence Quiz",
       "duration_s": 20.16,
       "resolution": "1080x1920",
@@ -819,7 +819,7 @@
     {
       "id": "teishutsu-mieruka",
       "subject": "manabi",
-      "title_ja": "90%終わらせただけ",
+      "title_ja": "提出物の落とし穴:終わらせただけ",
       "title_en": "Submit Tracker Quiz",
       "duration_s": 18.56,
       "resolution": "1080x1920",
