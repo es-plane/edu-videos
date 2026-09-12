@@ -1,210 +1,234 @@
 {
- "title": "es-plane edu-videos",
- "lang": "ja",
- "updated": "2026-09-12",
- "pages_url": "https://es-plane.github.io/edu-videos/",
- "subjects_order": [
-  "joho",
-  "shakai",
-  "rika",
-  "sugaku",
-  "kokugo",
-  "eigo"
- ],
- "subject_labels": {
-  "joho": "情報",
-  "shakai": "社会",
-  "rika": "理科",
-  "sugaku": "数学",
-  "kokugo": "国語",
-  "eigo": "英語"
- },
- "shorts": [
-  {
-   "id": "past-tense-ed",
-   "subject": "eigo",
-   "title_ja": "過去形ed",
-   "title_en": "Past Tense -ed",
-   "duration_s": 13.06,
-   "resolution": "1080x1920",
-   "winner": "V7/e7",
-   "pattern_id": "p14-english-past",
-   "curriculum_beat": "規則動詞の過去形—played/watched/studiedの3パターン",
-   "path": "shorts/ja/eigo/past-tense-ed/short.mp4"
+  "title": "es-plane edu-videos",
+  "lang": "ja",
+  "updated": "2026-09-13",
+  "pages_url": "https://es-plane.github.io/edu-videos/",
+  "subjects_order": [
+    "joho",
+    "shakai",
+    "rika",
+    "sugaku",
+    "kokugo",
+    "eigo"
+  ],
+  "subject_labels": {
+    "joho": "情報",
+    "shakai": "社会",
+    "rika": "理科",
+    "sugaku": "数学",
+    "kokugo": "国語",
+    "eigo": "英語"
   },
-  {
-   "id": "third-person-s",
-   "subject": "eigo",
-   "title_ja": "三単現のs",
-   "title_en": "Third-Person Singular -s",
-   "duration_s": 11.05,
-   "resolution": "1080x1920",
-   "winner": "V7/e7",
-   "pattern_id": "p07-english-3rd",
-   "curriculum_beat": "He playsのsは3人称・単数・現在の合図",
-   "path": "shorts/ja/eigo/third-person-s/short.mp4"
-  },
-  {
-   "id": "junjo-bunki-hanpuku",
-   "subject": "joho",
-   "title_ja": "順次・分岐・反復",
-   "title_en": "Sequence, Branch, Loop",
-   "duration_s": 13.06,
-   "resolution": "1080x1920",
-   "winner": "short1",
-   "pattern_id": "p02-short9ja-beats",
-   "curriculum_beat": "コンピュータにできるのは3つだけ（順次・分岐・反復）",
-   "path": "shorts/ja/joho/junjo-bunki-hanpuku/short.mp4"
-  },
-  {
-   "id": "password-why-leaks",
-   "subject": "joho",
-   "title_ja": "パスワードはなぜバレる",
-   "title_en": "Why Passwords Leak",
-   "duration_s": 13.06,
-   "resolution": "1080x1920",
-   "winner": "V4/B4",
-   "pattern_id": "p02-short9ja-beats",
-   "curriculum_beat": "短いパスワードは一瞬で破られる—長く混ぜればバレにくい",
-   "path": "shorts/ja/joho/password-why-leaks/short.mp4"
-  },
-  {
-   "id": "kanji-keisei",
-   "subject": "kokugo",
-   "title_ja": "漢字の成り立ち",
-   "title_en": "How Kanji Are Formed",
-   "duration_s": 14.06,
-   "resolution": "1080x1920",
-   "winner": "V8/k8",
-   "pattern_id": "p11-kokugo-kanji",
-   "curriculum_beat": "象形・指事・会意・形声を1例ずつ（山・上・休・晴）",
-   "path": "shorts/ja/kokugo/kanji-keisei/short.mp4"
-  },
-  {
-   "id": "ohm-law",
-   "subject": "rika",
-   "title_ja": "オームの法則",
-   "title_en": "Ohm's Law",
-   "duration_s": 15.06,
-   "resolution": "1080x1920",
-   "winner": "V7",
-   "pattern_id": "p13-science-ohm",
-   "curriculum_beat": "電圧2倍なら電流も2倍—V=IRの比例クイズ",
-   "path": "shorts/ja/rika/ohm-law/short.mp4"
-  },
-  {
-   "id": "oxidize-mass",
-   "subject": "rika",
-   "title_ja": "燃やしたのに重い",
-   "title_en": "Heavier When Burned",
-   "duration_s": 12.05,
-   "resolution": "1080x1920",
-   "winner": "V7/ox7",
-   "pattern_id": "p05-science-oxidize",
-   "curriculum_beat": "酸化で酸素と結びつくと質量が増える（質量保存）",
-   "path": "shorts/ja/rika/oxidize-mass/short.mp4"
-  },
-  {
-   "id": "civics-3powers",
-   "subject": "shakai",
-   "title_ja": "三権分立",
-   "title_en": "Separation of Powers",
-   "duration_s": 15.06,
-   "resolution": "1080x1920",
-   "winner": "V7/c7",
-   "pattern_id": "p08-civics-3powers",
-   "curriculum_beat": "国会・内閣・裁判所—権力を分けて集中を防ぐ",
-   "path": "shorts/ja/shakai/civics-3powers/short.mp4"
-  },
-  {
-   "id": "geography-timediff",
-   "subject": "shakai",
-   "title_ja": "時差",
-   "title_en": "Time Difference",
-   "duration_s": 14.06,
-   "resolution": "1080x1920",
-   "winner": "V8/g8",
-   "pattern_id": "p10-geography-timediff",
-   "curriculum_beat": "時差の計算—東へ進むと時刻が進む、日付変更線",
-   "path": "shorts/ja/shakai/geography-timediff/short.mp4"
-  },
-  {
-   "id": "history-sankin",
-   "subject": "shakai",
-   "title_ja": "参勤交代",
-   "title_en": "Sankin-kōtai",
-   "duration_s": 21.06,
-   "resolution": "1080x1920",
-   "winner": "V8",
-   "pattern_id": "p09-history-edo-2",
-   "curriculum_beat": "参勤交代の3点因果—人質・単身赴任・出費で260年の安定",
-   "path": "shorts/ja/shakai/history-sankin/short.mp4"
-  },
-  {
-   "id": "equation-balance",
-   "subject": "sugaku",
-   "title_ja": "方程式は天秤",
-   "title_en": "Equations Are a Balance Scale",
-   "duration_s": 17.05,
-   "resolution": "1080x1920",
-   "winner": "V8",
-   "pattern_id": "p06-math-balance",
-   "curriculum_beat": "等式の性質—両辺に同じ操作でxが出る（x+3=7）",
-   "path": "shorts/ja/sugaku/equation-balance/short.mp4"
-  },
-  {
-   "id": "sensor-control",
-   "subject": "joho",
-   "title_ja": "センサーが見て動く",
-   "title_en": "Sensors See and Move",
-   "duration_s": 12.76,
-   "resolution": "1080x1920",
-   "winner": "V3/B3",
-   "pattern_id": "p02-short9ja-beats",
-   "curriculum_beat": "測って比べて動かす—計測と制御",
-   "path": "shorts/ja/joho/sensor-control/short.mp4"
-  },
-  {
-   "id": "pixels-digits",
-   "subject": "joho",
-   "title_ja": "画像は数字の集まり",
-   "title_en": "Pictures Are Numbers",
-   "duration_s": 14.55,
-   "resolution": "1080x1920",
-   "winner": "V1/B1",
-   "pattern_id": "p02-short9ja-beats",
-   "curriculum_beat": "一マスずつ数字で覚える—それがディジタル化",
-   "path": "shorts/ja/joho/pixels-digits/short.mp4"
-  }
- ],
- "lessons": [
-  {
-   "id": "lesson1-ja",
-   "title_ja": "レッスン1 — 秘密をアップロードするな",
-   "title_en": "Lesson 1 JA — Stop Uploading Secrets",
-   "path": "lessons/lesson1-ja-voiced.mp4",
-   "lang": "ja"
-  },
-  {
-   "id": "lesson1-en",
-   "title_ja": "Lesson 1 EN — Stop Uploading Secrets",
-   "title_en": "Lesson 1 — Stop Uploading Secrets",
-   "path": "lessons/lesson1-voiced.mp4",
-   "lang": "en"
-  },
-  {
-   "id": "lesson2-en",
-   "title_ja": "Lesson 2 EN — Base64 Is Not Encryption",
-   "title_en": "Lesson 2 — Base64 Is Not Encryption",
-   "path": "lessons/lesson2-voiced.mp4",
-   "lang": "en"
-  }
- ],
- "compat_root_urls": [
-  "short1-ja-voiced.mp4",
-  "lesson1-ja-voiced.mp4",
-  "lesson1-voiced.mp4",
-  "lesson2-voiced.mp4",
-  "thumb.png"
- ]
+  "shorts": [
+    {
+      "id": "past-tense-ed",
+      "subject": "eigo",
+      "title_ja": "過去形ed",
+      "title_en": "Past Tense -ed",
+      "duration_s": 13.06,
+      "resolution": "1080x1920",
+      "winner": "V7/e7",
+      "pattern_id": "p14-english-past",
+      "curriculum_beat": "規則動詞の過去形—played/watched/studiedの3パターン",
+      "path": "shorts/ja/eigo/past-tense-ed/short.mp4"
+    },
+    {
+      "id": "third-person-s",
+      "subject": "eigo",
+      "title_ja": "三単現のs",
+      "title_en": "Third-Person Singular -s",
+      "duration_s": 11.05,
+      "resolution": "1080x1920",
+      "winner": "V7/e7",
+      "pattern_id": "p07-english-3rd",
+      "curriculum_beat": "He playsのsは3人称・単数・現在の合図",
+      "path": "shorts/ja/eigo/third-person-s/short.mp4"
+    },
+    {
+      "id": "junjo-bunki-hanpuku",
+      "subject": "joho",
+      "title_ja": "順次・分岐・反復",
+      "title_en": "Sequence, Branch, Loop",
+      "duration_s": 13.06,
+      "resolution": "1080x1920",
+      "winner": "short1",
+      "pattern_id": "p02-short9ja-beats",
+      "curriculum_beat": "コンピュータにできるのは3つだけ（順次・分岐・反復）",
+      "path": "shorts/ja/joho/junjo-bunki-hanpuku/short.mp4"
+    },
+    {
+      "id": "password-why-leaks",
+      "subject": "joho",
+      "title_ja": "パスワードはなぜバレる",
+      "title_en": "Why Passwords Leak",
+      "duration_s": 13.06,
+      "resolution": "1080x1920",
+      "winner": "V4/B4",
+      "pattern_id": "p02-short9ja-beats",
+      "curriculum_beat": "短いパスワードは一瞬で破られる—長く混ぜればバレにくい",
+      "path": "shorts/ja/joho/password-why-leaks/short.mp4"
+    },
+    {
+      "id": "kanji-keisei",
+      "subject": "kokugo",
+      "title_ja": "漢字の成り立ち",
+      "title_en": "How Kanji Are Formed",
+      "duration_s": 14.06,
+      "resolution": "1080x1920",
+      "winner": "V8/k8",
+      "pattern_id": "p11-kokugo-kanji",
+      "curriculum_beat": "象形・指事・会意・形声を1例ずつ（山・上・休・晴）",
+      "path": "shorts/ja/kokugo/kanji-keisei/short.mp4"
+    },
+    {
+      "id": "ohm-law",
+      "subject": "rika",
+      "title_ja": "オームの法則",
+      "title_en": "Ohm's Law",
+      "duration_s": 15.06,
+      "resolution": "1080x1920",
+      "winner": "V7",
+      "pattern_id": "p13-science-ohm",
+      "curriculum_beat": "電圧2倍なら電流も2倍—V=IRの比例クイズ",
+      "path": "shorts/ja/rika/ohm-law/short.mp4"
+    },
+    {
+      "id": "oxidize-mass",
+      "subject": "rika",
+      "title_ja": "燃やしたのに重い",
+      "title_en": "Heavier When Burned",
+      "duration_s": 12.05,
+      "resolution": "1080x1920",
+      "winner": "V7/ox7",
+      "pattern_id": "p05-science-oxidize",
+      "curriculum_beat": "酸化で酸素と結びつくと質量が増える（質量保存）",
+      "path": "shorts/ja/rika/oxidize-mass/short.mp4"
+    },
+    {
+      "id": "civics-3powers",
+      "subject": "shakai",
+      "title_ja": "三権分立",
+      "title_en": "Separation of Powers",
+      "duration_s": 15.06,
+      "resolution": "1080x1920",
+      "winner": "V7/c7",
+      "pattern_id": "p08-civics-3powers",
+      "curriculum_beat": "国会・内閣・裁判所—権力を分けて集中を防ぐ",
+      "path": "shorts/ja/shakai/civics-3powers/short.mp4"
+    },
+    {
+      "id": "geography-timediff",
+      "subject": "shakai",
+      "title_ja": "時差",
+      "title_en": "Time Difference",
+      "duration_s": 14.06,
+      "resolution": "1080x1920",
+      "winner": "V8/g8",
+      "pattern_id": "p10-geography-timediff",
+      "curriculum_beat": "時差の計算—東へ進むと時刻が進む、日付変更線",
+      "path": "shorts/ja/shakai/geography-timediff/short.mp4"
+    },
+    {
+      "id": "history-sankin",
+      "subject": "shakai",
+      "title_ja": "参勤交代",
+      "title_en": "Sankin-kōtai",
+      "duration_s": 21.06,
+      "resolution": "1080x1920",
+      "winner": "V8",
+      "pattern_id": "p09-history-edo-2",
+      "curriculum_beat": "参勤交代の3点因果—人質・単身赴任・出費で260年の安定",
+      "path": "shorts/ja/shakai/history-sankin/short.mp4"
+    },
+    {
+      "id": "equation-balance",
+      "subject": "sugaku",
+      "title_ja": "方程式は天秤",
+      "title_en": "Equations Are a Balance Scale",
+      "duration_s": 17.05,
+      "resolution": "1080x1920",
+      "winner": "V8",
+      "pattern_id": "p06-math-balance",
+      "curriculum_beat": "等式の性質—両辺に同じ操作でxが出る（x+3=7）",
+      "path": "shorts/ja/sugaku/equation-balance/short.mp4"
+    },
+    {
+      "id": "sensor-control",
+      "subject": "joho",
+      "title_ja": "センサーが見て動く",
+      "title_en": "Sensors See and Move",
+      "duration_s": 12.76,
+      "resolution": "1080x1920",
+      "winner": "V3/B3",
+      "pattern_id": "p02-short9ja-beats",
+      "curriculum_beat": "測って比べて動かす—計測と制御",
+      "path": "shorts/ja/joho/sensor-control/short.mp4"
+    },
+    {
+      "id": "pixels-digits",
+      "subject": "joho",
+      "title_ja": "画像は数字の集まり",
+      "title_en": "Pictures Are Numbers",
+      "duration_s": 14.55,
+      "resolution": "1080x1920",
+      "winner": "V1/B1",
+      "pattern_id": "p02-short9ja-beats",
+      "curriculum_beat": "一マスずつ数字で覚える—それがディジタル化",
+      "path": "shorts/ja/joho/pixels-digits/short.mp4"
+    },
+    {
+      "id": "password-why-leaks-v2",
+      "subject": "joho",
+      "title_ja": "パスワードはなぜバレる v2",
+      "title_en": "Why Passwords Leak v2",
+      "duration_s": 19.46,
+      "resolution": "1080x1920",
+      "winner": "own/brush-up b4v2 (quiz+echo+CTA, rubric 33/35)",
+      "pattern_id": "rubric-v2-brushup",
+      "curriculum_beat": "短いパスワードは一瞬で破られる—クイズつきv2",
+      "path": "shorts/ja/joho/password-why-leaks-v2/short.mp4"
+    },
+    {
+      "id": "sensor-control-v2",
+      "subject": "joho",
+      "title_ja": "センサーが見て動く v2",
+      "title_en": "Sensors in Action v2",
+      "duration_s": 19.65,
+      "resolution": "1080x1920",
+      "winner": "own/brush-up b3v2 (3-choice quiz+CTA, rubric 33/35)",
+      "pattern_id": "rubric-v2-brushup",
+      "curriculum_beat": "測って比べて動かす—クイズつきv2",
+      "path": "shorts/ja/joho/sensor-control-v2/short.mp4"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lesson1-ja",
+      "title_ja": "レッスン1 — 秘密をアップロードするな",
+      "title_en": "Lesson 1 JA — Stop Uploading Secrets",
+      "path": "lessons/lesson1-ja-voiced.mp4",
+      "lang": "ja"
+    },
+    {
+      "id": "lesson1-en",
+      "title_ja": "Lesson 1 EN — Stop Uploading Secrets",
+      "title_en": "Lesson 1 — Stop Uploading Secrets",
+      "path": "lessons/lesson1-voiced.mp4",
+      "lang": "en"
+    },
+    {
+      "id": "lesson2-en",
+      "title_ja": "Lesson 2 EN — Base64 Is Not Encryption",
+      "title_en": "Lesson 2 — Base64 Is Not Encryption",
+      "path": "lessons/lesson2-voiced.mp4",
+      "lang": "en"
+    }
+  ],
+  "compat_root_urls": [
+    "short1-ja-voiced.mp4",
+    "lesson1-ja-voiced.mp4",
+    "lesson1-voiced.mp4",
+    "lesson2-voiced.mp4",
+    "thumb.png"
+  ]
 }
