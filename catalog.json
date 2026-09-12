@@ -247,6 +247,54 @@
       "pattern_id": "p27-history-kaikoku-meiji",
       "curriculum_beat": "ペリー来航1853・日米和親条約1854のQ→Aクイズ",
       "path": "shorts/ja/shakai/kaikoku-quiz/short.mp4"
+    },
+    {
+      "id": "equation-quiz",
+      "subject": "sugaku",
+      "title_ja": "一次方程式クイズ:2x+3=11",
+      "title_en": "Equation Quiz 2x+3=11",
+      "duration_s": 16.04,
+      "resolution": "1080x1920",
+      "winner": "V8 (quiz shell+天秤echo)",
+      "pattern_id": "p25-math-equation",
+      "curriculum_beat": "一次方程式の解き方—両辺操作クイズ",
+      "path": "shorts/ja/sugaku/equation-quiz/short.mp4"
+    },
+    {
+      "id": "ion-cacl2-quiz",
+      "subject": "rika",
+      "title_ja": "イオンクイズ:塩化カルシウム",
+      "title_en": "Ion Quiz CaCl2",
+      "duration_s": 15.06,
+      "resolution": "1080x1920",
+      "winner": "V4 (3-choice quiz+echo+CTA)",
+      "pattern_id": "p26-science-ion",
+      "curriculum_beat": "CaCl2の化学式—陽イオン陰イオン選択クイズ",
+      "path": "shorts/ja/rika/ion-cacl2-quiz/short.mp4"
+    },
+    {
+      "id": "bunpou-warning",
+      "subject": "kokugo",
+      "title_ja": "90%が間違える「きれい」は何詞",
+      "title_en": "Keiyodoushi Trap",
+      "duration_s": 16.55,
+      "resolution": "1080x1920",
+      "winner": "V7 (誤答警告+example, 34/35)",
+      "pattern_id": "p29-kokugo-bunpou",
+      "curriculum_beat": "形容動詞の見分け—誤答警告型",
+      "path": "shorts/ja/kokugo/bunpou-warning/short.mp4"
+    },
+    {
+      "id": "function-warning",
+      "subject": "sugaku",
+      "title_ja": "90%が間違える比例と反比例",
+      "title_en": "Proportion Trap",
+      "duration_s": 16.55,
+      "resolution": "1080x1920",
+      "winner": "V8 (warning+rule+quiz fusion, 34/35)",
+      "pattern_id": "p30-math-function",
+      "curriculum_beat": "比例・反比例のグラフ判別—誤答警告+クイズ",
+      "path": "shorts/ja/sugaku/function-warning/short.mp4"
     }
   ],
   "lessons": [
