@@ -9,7 +9,7 @@
 </head>
 <body style="font-family:sans-serif;background:#0b1020;color:#fff;max-width:900px;margin:0 auto;padding:24px">
 <h1>ショート + レッスン(日本語・音声付き)</h1>
-<p>音を出して再生してください。評価ポイント:冒頭2秒・テンポ・本物のショートに見えるか。</p>
+<p>音を出して再生してください。評価ポイント:冒頭2秒・テンポ・本物のショートに見えるか。見た人数: <b id="vc">…</b></p>
 <h2>ショート1 — コンピュータにできるのは3つだけ(13秒・縦型9:16・日本語音声)</h2>
 <video controls preload="metadata" style="width:100%;max-width:405px;display:block;margin:0 auto" src="short1-ja-voiced.mp4"></video>
 <p><a href="short1-ja-voiced.mp4" style="color:#7dd3fc">MP4直リンク(ショート1・縦型)</a></p>
@@ -26,5 +26,10 @@
 <video controls preload="metadata" width="100%" src="lesson2-voiced.mp4"></video>
 <p><a href="lesson2-voiced.mp4" style="color:#7dd3fc">Direct MP4 (lesson 2 EN)</a></p>
 <p>無料ツール: <a href="https://es-plane.github.io/json-tools/" style="color:#7dd3fc">json-tools</a></p>
+<script>
+fetch('https://abacus.jasoncameron.dev/hit/edu-videos-ja/short1-page')
+.then(r=>r.json()).then(d=>{document.getElementById('vc').textContent=d.value})
+.catch(()=>{document.getElementById('vc').textContent='—'});
+</script>
 </body>
 </html>
