@@ -1,0 +1,12 @@
+{
+  "id": "data-median",
+  "subject": "sugaku",
+  "title_ja": "クイズ:真ん中の値はどれ",
+  "title_en": "Median Quiz",
+  "duration_s": 21.55,
+  "resolution": "1080x1920",
+  "winner": "V6 (quiz shell+使い分け, 39/40)",
+  "pattern_id": "p72-math-data",
+  "curriculum_beat": "代表値・外れ値—クイズ旗艦",
+  "path": "shorts/ja/sugaku/data-median/short.mp4"
+}
