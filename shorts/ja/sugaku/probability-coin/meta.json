@@ -1,0 +1,12 @@
+{
+  "id": "probability-coin",
+  "subject": "sugaku",
+  "title_ja": "90%が間違えるコイン2枚",
+  "title_en": "Coin Trap",
+  "duration_s": 21.06,
+  "resolution": "1080x1920",
+  "winner": "V7 (誤答+why-strip, 39/40)",
+  "pattern_id": "p40-math-probability",
+  "curriculum_beat": "コイン2枚の数え漏れ—誤答警告型",
+  "path": "shorts/ja/sugaku/probability-coin/short.mp4"
+}

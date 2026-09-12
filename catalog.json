@@ -9,7 +9,8 @@
     "rika",
     "sugaku",
     "kokugo",
-    "eigo"
+    "eigo",
+    "manabi"
   ],
   "subject_labels": {
     "joho": "情報",
@@ -17,7 +18,8 @@
     "rika": "理科",
     "sugaku": "数学",
     "kokugo": "国語",
-    "eigo": "英語"
+    "eigo": "英語",
+    "manabi": "学び方"
   },
   "shorts": [
     {
@@ -355,6 +357,66 @@
       "pattern_id": "p36-geography-japan",
       "curriculum_beat": "工業地帯の判別—誤答警告型",
       "path": "shorts/ja/shakai/keihin-keiyo/short.mp4"
+    },
+    {
+      "id": "force-reaction",
+      "subject": "rika",
+      "title_ja": "90%が間違える作用反作用",
+      "title_en": "Action-Reaction Trap",
+      "duration_s": 18.05,
+      "resolution": "1080x1920",
+      "winner": "V3 (誤答 別物体, 39/40)",
+      "pattern_id": "p38-science-force",
+      "curriculum_beat": "作用反作用vsつり合い—誤答警告型",
+      "path": "shorts/ja/rika/force-reaction/short.mp4"
+    },
+    {
+      "id": "kobun-kehu",
+      "subject": "kokugo",
+      "title_ja": "古文「けふ」はどう読む",
+      "title_en": "Kobun Reading Trap",
+      "duration_s": 16.04,
+      "resolution": "1080x1920",
+      "winner": "V7 (誤答+CTA, 39/40)",
+      "pattern_id": "p39-kokugo-kobun",
+      "curriculum_beat": "歴史的仮名遣い—誤答警告型",
+      "path": "shorts/ja/kokugo/kobun-kehu/short.mp4"
+    },
+    {
+      "id": "probability-coin",
+      "subject": "sugaku",
+      "title_ja": "90%が間違えるコイン2枚",
+      "title_en": "Coin Trap",
+      "duration_s": 21.06,
+      "resolution": "1080x1920",
+      "winner": "V7 (誤答+why-strip, 39/40)",
+      "pattern_id": "p40-math-probability",
+      "curriculum_beat": "コイン2枚の数え漏れ—誤答警告型",
+      "path": "shorts/ja/sugaku/probability-coin/short.mp4"
+    },
+    {
+      "id": "postwar-3years",
+      "subject": "shakai",
+      "title_ja": "戦後の3年号言える?",
+      "title_en": "Postwar 3 Years",
+      "duration_s": 19.56,
+      "resolution": "1080x1920",
+      "winner": "V7 (timeline×warning, 39/40)",
+      "pattern_id": "p41-history-postwar",
+      "curriculum_beat": "1945/1947/1951—年表×警告",
+      "path": "shorts/ja/shakai/postwar-3years/short.mp4"
+    },
+    {
+      "id": "naishin-3views",
+      "subject": "manabi",
+      "title_ja": "90%が間違える内申の態度",
+      "title_en": "Naishin Attitude",
+      "duration_s": 17.05,
+      "resolution": "1080x1920",
+      "winner": "V8 (warning+checklist+保存CTA, 39/40)",
+      "pattern_id": "p42-study-naishin",
+      "curriculum_beat": "内申3観点—保護者向け学習法型",
+      "path": "shorts/ja/manabi/naishin-3views/short.mp4"
     }
   ],
   "lessons": [
