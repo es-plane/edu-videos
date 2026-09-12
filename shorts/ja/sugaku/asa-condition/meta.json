@@ -1,0 +1,12 @@
+{
+  "id": "asa-condition",
+  "subject": "sugaku",
+  "title_ja": "90%が間違える一辺両端角",
+  "title_en": "ASA Condition Quiz",
+  "duration_s": 20.05,
+  "resolution": "1080x1920",
+  "winner": "V8 (warning+demo+quiz, 39/40)",
+  "pattern_id": "p67-math-asa",
+  "curriculum_beat": "ASA合同条件—誤答警告型",
+  "path": "shorts/ja/sugaku/asa-condition/short.mp4"
+}

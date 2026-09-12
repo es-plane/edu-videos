@@ -707,6 +707,66 @@
       "pattern_id": "p65-recap-4",
       "curriculum_beat": "細胞+税+世界—総復習",
       "path": "shorts/ja/recap/recap4-trap/short.mp4"
+    },
+    {
+      "id": "tame-gono",
+      "subject": "eigo",
+      "title_ja": "90%が間違えるための語順",
+      "title_en": "Tame Gono Quiz",
+      "duration_s": 17.05,
+      "resolution": "1080x1920",
+      "winner": "V8 (warning+order-flip, 37/40)",
+      "pattern_id": "p66-english-tame",
+      "curriculum_beat": "不定詞ため用法・語順—誤答警告型",
+      "path": "shorts/ja/eigo/tame-gono/short.mp4"
+    },
+    {
+      "id": "asa-condition",
+      "subject": "sugaku",
+      "title_ja": "90%が間違える一辺両端角",
+      "title_en": "ASA Condition Quiz",
+      "duration_s": 20.05,
+      "resolution": "1080x1920",
+      "winner": "V8 (warning+demo+quiz, 39/40)",
+      "pattern_id": "p67-math-asa",
+      "curriculum_beat": "ASA合同条件—誤答警告型",
+      "path": "shorts/ja/sugaku/asa-condition/short.mp4"
+    },
+    {
+      "id": "article9-quiz",
+      "subject": "shakai",
+      "title_ja": "クイズ:軍を持たないのは何項",
+      "title_en": "Article 9 Quiz",
+      "duration_s": 18.05,
+      "resolution": "1080x1920",
+      "winner": "V7 (条文quiz+stamp, 39/40)",
+      "pattern_id": "p68-civics-article9",
+      "curriculum_beat": "9条一項二項—クイズ型",
+      "path": "shorts/ja/shakai/article9-quiz/short.mp4"
+    },
+    {
+      "id": "kofu-bonchi",
+      "subject": "shakai",
+      "title_ja": "甲府盆地ってどんな地形",
+      "title_en": "Kofu Basin Quiz",
+      "duration_s": 16.04,
+      "resolution": "1080x1920",
+      "winner": "V1 (盆地core, 39/40)",
+      "pattern_id": "p69-geography-bonchi",
+      "curriculum_beat": "盆地の定義—クイズ型",
+      "path": "shorts/ja/shakai/kofu-bonchi/short.mp4"
+    },
+    {
+      "id": "okinawa-1972",
+      "subject": "shakai",
+      "title_ja": "沖縄が帰ってきたのはいつ",
+      "title_en": "Okinawa 1972 Quiz",
+      "duration_s": 23.15,
+      "resolution": "1080x1920",
+      "winner": "V7 (timeline×warning, 39/40)",
+      "pattern_id": "p70-history-okinawa",
+      "curriculum_beat": "1951/68/72—年表×警告",
+      "path": "shorts/ja/shakai/okinawa-1972/short.mp4"
     }
   ],
   "lessons": [
