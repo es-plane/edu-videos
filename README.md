@@ -1,10 +1,14 @@
-# edu-videos (PUBLIC — watchable artifacts only)
+# edu-videos / 教育ショート動画
 
-Voiced lesson cuts + thumbnail + browser player. No learner data, no keys, no private notes.
+Public artifacts only — Japanese curriculum short videos (9:16, voiced) and lessons.
 
-- `watch.html` — play both lessons in a browser (https avoids file:// audio issues)
-- `lesson1-voiced.mp4` — 36s, h264+AAC (canonical watch copy)
-- `lesson2-voiced.mp4` — 16s, h264+AAC (canonical watch copy)
-- `thumb.png` — lesson 1 thumbnail (1280x720)
+公開用成果物のみ。中学指導要領ベースの日本語ナレーション付きショート（縦型9:16）とレッスン動画です。
 
-Silent dev cuts are never published here. Sources live in the `json-tools` repo `video/` folder (not published).
+- **Pages:** https://es-plane.github.io/edu-videos/
+- **Catalog:** [catalog.json](catalog.json)
+- **Layout:** `shorts/ja/<subject>/<topic>/short.mp4` + `meta.json`
+- **Compat:** root-level `short1-ja-voiced.mp4` and lesson MP4s remain for existing links
+
+Subjects: 情報 / 社会 / 理科 / 数学 / 国語 / 英語 / レッスン
+
+No secrets, keys, or private notes in this repo.

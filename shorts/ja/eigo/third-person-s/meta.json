@@ -1,0 +1,12 @@
+{
+  "id": "third-person-s",
+  "subject": "eigo",
+  "title_ja": "三単現のs",
+  "title_en": "Third-Person Singular -s",
+  "duration_s": 11.05,
+  "resolution": "1080x1920",
+  "winner": "V7/e7",
+  "pattern_id": "p07-english-3rd",
+  "curriculum_beat": "He playsのsは3人称・単数・現在の合図",
+  "path": "shorts/ja/eigo/third-person-s/short.mp4"
+}

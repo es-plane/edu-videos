@@ -1,0 +1,12 @@
+{
+  "id": "ohm-law",
+  "subject": "rika",
+  "title_ja": "オームの法則",
+  "title_en": "Ohm's Law",
+  "duration_s": 15.06,
+  "resolution": "1080x1920",
+  "winner": "V7",
+  "pattern_id": "p13-science-ohm",
+  "curriculum_beat": "電圧2倍なら電流も2倍—V=IRの比例クイズ",
+  "path": "shorts/ja/rika/ohm-law/short.mp4"
+}
