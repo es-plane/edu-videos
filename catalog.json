@@ -235,6 +235,18 @@
       "pattern_id": "p28-english-infinitive",
       "curriculum_beat": "不定詞 to+原形—ライクかライクスか選択クイズ",
       "path": "shorts/ja/eigo/infinitive-quiz/short.mp4"
+    },
+    {
+      "id": "kaikoku-quiz",
+      "subject": "shakai",
+      "title_ja": "開国クイズ:黒船は何年",
+      "title_en": "Opening Quiz: Black Ships year",
+      "duration_s": 15.36,
+      "resolution": "1080x1920",
+      "winner": "V4 (年号クイズ 1853/1854)",
+      "pattern_id": "p27-history-kaikoku-meiji",
+      "curriculum_beat": "ペリー来航1853・日米和親条約1854のQ→Aクイズ",
+      "path": "shorts/ja/shakai/kaikoku-quiz/short.mp4"
     }
   ],
   "lessons": [
