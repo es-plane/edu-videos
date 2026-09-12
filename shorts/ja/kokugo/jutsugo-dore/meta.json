@@ -1,0 +1,17 @@
+{
+  "id": "jutsugo-dore",
+  "subject": "kokugo",
+  "title_ja": "述語はどれだ",
+  "title_en": "Predicate Quiz",
+  "duration_s": 17.75,
+  "resolution": "1080x1920",
+  "winner": "PILOT study30s (trust pass, sharp, 39/40)",
+  "pattern_id": "pilot-koku",
+  "curriculum_beat": "述語の見分け—step-pick",
+  "path": "shorts/ja/kokugo/jutsugo-dore/short.mp4",
+  "cta": {
+    "kind": "step-pick",
+    "expected": "1"
+  },
+  "trust": "pass"
+}

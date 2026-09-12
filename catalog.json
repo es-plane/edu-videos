@@ -827,6 +827,86 @@
       "pattern_id": "p75-manabi-teishutsu",
       "curriculum_beat": "提出物管理—保存CTA型",
       "path": "shorts/ja/manabi/teishutsu-mieruka/short.mp4"
+    },
+    {
+      "id": "ryoji-saiban",
+      "subject": "shakai",
+      "title_ja": "領事裁判権の変な点",
+      "title_en": "Consul Trap Quiz",
+      "duration_s": 22.25,
+      "resolution": "1080x1920",
+      "winner": "PILOT study30s (trust pass, sharp, 39/40)",
+      "pattern_id": "pilot-soc",
+      "curriculum_beat": "領事裁判権—変な点step-pick",
+      "path": "shorts/ja/shakai/ryoji-saiban/short.mp4",
+      "cta": {
+        "kind": "step-pick",
+        "expected": "2"
+      }
+    },
+    {
+      "id": "muryo-gacha",
+      "subject": "joho",
+      "title_ja": "無料ガチャの落とし穴",
+      "title_en": "Gacha Trap Quiz",
+      "duration_s": 22.55,
+      "resolution": "1080x1920",
+      "winner": "PILOT techtech331 (trust pass, sharp, 39/40)",
+      "pattern_id": "pilot-tech",
+      "curriculum_beat": "課金トラップ—step-pick",
+      "path": "shorts/ja/joho/muryo-gacha/short.mp4",
+      "cta": {
+        "kind": "step-pick",
+        "expected": "2"
+      }
+    },
+    {
+      "id": "renritsu-kainashi",
+      "subject": "sugaku",
+      "title_ja": "連立方程式の解なし",
+      "title_en": "No-Solution Quiz",
+      "duration_s": 24.26,
+      "resolution": "1080x1920",
+      "winner": "PILOT Momo (trust pass, sharp, 39/40)",
+      "pattern_id": "pilot-math",
+      "curriculum_beat": "解なし平行—step-pick",
+      "path": "shorts/ja/sugaku/renritsu-kainashi/short.mp4",
+      "cta": {
+        "kind": "step-pick",
+        "expected": "2"
+      }
+    },
+    {
+      "id": "furiko-shuki",
+      "subject": "rika",
+      "title_ja": "振り子の周期は長さ",
+      "title_en": "Pendulum Quiz",
+      "duration_s": 21.06,
+      "resolution": "1080x1920",
+      "winner": "PILOT lab (trust pass, sharp, 39/40)",
+      "pattern_id": "pilot-lab",
+      "curriculum_beat": "周期vs重さ—一語型",
+      "path": "shorts/ja/rika/furiko-shuki/short.mp4",
+      "cta": {
+        "kind": "trap-word",
+        "expected": "ビー"
+      }
+    },
+    {
+      "id": "jutsugo-dore",
+      "subject": "kokugo",
+      "title_ja": "述語はどれだ",
+      "title_en": "Predicate Quiz",
+      "duration_s": 17.75,
+      "resolution": "1080x1920",
+      "winner": "PILOT study30s (trust pass, sharp, 39/40)",
+      "pattern_id": "pilot-koku",
+      "curriculum_beat": "述語の見分け—step-pick",
+      "path": "shorts/ja/kokugo/jutsugo-dore/short.mp4",
+      "cta": {
+        "kind": "step-pick",
+        "expected": "1"
+      }
     }
   ],
   "lessons": [
