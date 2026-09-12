@@ -2,11 +2,201 @@
 <html lang="ja">
 <head>
 <meta charset="utf-8">
-<meta http-equiv="refresh" content="0;url=index.html">
-<title>Redirect…</title>
-<link rel="canonical" href="index.html">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>edu-videos — 中学向けショート教材（日本語）</title>
+<meta name="description" content="中学指導要領ベースの日本語ナレーション付き9:16ショートとレッスン動画。">
+<meta name="robots" content="index,follow">
+<style>
+  :root { --bg:#0b1020; --card:#111a2e; --text:#e8eef8; --muted:#94a3b8; --accent:#7dd3fc; --line:#1e293b; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; background:var(--bg); color:var(--text); line-height:1.55; }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 28px 20px 64px; }
+  header h1 { font-size: 1.75rem; margin: 0 0 8px; }
+  header p { color: var(--muted); margin: 0 0 8px; }
+  .hits { color: var(--accent); font-weight: 700; }
+  nav.toc { display:flex; flex-wrap:wrap; gap:8px; margin: 20px 0 28px; }
+  nav.toc a { color: var(--accent); text-decoration:none; background:var(--card); border:1px solid var(--line); padding:6px 12px; border-radius:999px; font-size:0.9rem; }
+  nav.toc a:hover { border-color: var(--accent); }
+  section { margin: 36px 0; }
+  section > h2 { font-size: 1.35rem; border-bottom: 1px solid var(--line); padding-bottom: 8px; margin: 0 0 18px; }
+  .grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
+  article { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 16px; }
+  article h3 { margin: 0 0 4px; font-size: 1.05rem; }
+  article .meta { color: var(--muted); font-size: 0.85rem; margin-bottom: 10px; }
+  video { width: 100%; max-width: 405px; display:block; margin: 0 auto; border-radius: 12px; background:#000; }
+  .links { margin-top: 8px; font-size: 0.85rem; }
+  .links a { color: var(--accent); }
+  .lesson video { max-width: 100%; }
+  footer { margin-top: 48px; color: var(--muted); font-size: 0.85rem; border-top: 1px solid var(--line); padding-top: 16px; }
+</style>
 </head>
-<body style="font-family:sans-serif;background:#0b1020;color:#fff;padding:24px">
-<p><a href="index.html" style="color:#7dd3fc">カタログへ →</a></p>
+<body>
+<div class="wrap">
+<header>
+  <h1>中学向けショート教材</h1>
+  <p>日本語ナレーション付き・縦型9:16。音を出して再生してください。</p>
+  <p>閲覧: <span class="hits" id="vc">…</span></p>
+</header>
+
+<nav class="toc" aria-label="科目">
+  <a href="#joho">情報</a>
+  <a href="#shakai">社会</a>
+  <a href="#rika">理科</a>
+  <a href="#sugaku">数学</a>
+  <a href="#kokugo">国語</a>
+  <a href="#eigo">英語</a>
+  <a href="#lessons">レッスン</a>
+  <a href="accounts/">アカウント作成手順</a>
+</nav>
+
+<section id="joho">
+  <h2>情報</h2>
+  <div class="grid">
+    <article>
+      <h3>順次・分岐・反復</h3>
+      <div class="meta">13秒 · コンピュータにできるのは3つだけ</div>
+      <video controls preload="metadata" src="shorts/ja/joho/junjo-bunki-hanpuku/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/joho/junjo-bunki-hanpuku/short.mp4">MP4</a> · <a href="short1-ja-voiced.mp4">互換URL</a></div>
+    </article>
+    <article>
+      <h3>パスワードはなぜバレる</h3>
+      <div class="meta">13秒 · 短いパスワードは一瞬で破られる</div>
+      <video controls preload="metadata" src="shorts/ja/joho/password-why-leaks/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/joho/password-why-leaks/short.mp4">MP4</a></div>
+    </article>
+    <article>
+      <h3>センサーが見て動く</h3>
+      <div class="meta">13秒 · 測って比べて動かす—計測と制御</div>
+      <video controls preload="metadata" src="shorts/ja/joho/sensor-control/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/joho/sensor-control/short.mp4">MP4</a></div>
+    </article>
+    <article>
+      <h3>画像は数字の集まり</h3>
+      <div class="meta">15秒 · 一マスずつ数字で覚える—ディジタル化</div>
+      <video controls preload="metadata" src="shorts/ja/joho/pixels-digits/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/joho/pixels-digits/short.mp4">MP4</a></div>
+    </article>
+  </div>
+</section>
+
+<section id="shakai">
+  <h2>社会</h2>
+  <div class="grid">
+    <article>
+      <h3>時差</h3>
+      <div class="meta">14秒 · 地理 · 時差の計算</div>
+      <video controls preload="metadata" src="shorts/ja/shakai/geography-timediff/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/shakai/geography-timediff/short.mp4">MP4</a></div>
+    </article>
+    <article>
+      <h3>参勤交代</h3>
+      <div class="meta">21秒 · 歴史 · 人質・単身赴任・出費</div>
+      <video controls preload="metadata" src="shorts/ja/shakai/history-sankin/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/shakai/history-sankin/short.mp4">MP4</a></div>
+    </article>
+    <article>
+      <h3>三権分立</h3>
+      <div class="meta">15秒 · 公民 · 国会・内閣・裁判所</div>
+      <video controls preload="metadata" src="shorts/ja/shakai/civics-3powers/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/shakai/civics-3powers/short.mp4">MP4</a></div>
+    </article>
+  </div>
+</section>
+
+<section id="rika">
+  <h2>理科</h2>
+  <div class="grid">
+    <article>
+      <h3>燃やしたのに重い</h3>
+      <div class="meta">12秒 · 酸化と質量</div>
+      <video controls preload="metadata" src="shorts/ja/rika/oxidize-mass/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/rika/oxidize-mass/short.mp4">MP4</a></div>
+    </article>
+    <article>
+      <h3>オームの法則</h3>
+      <div class="meta">15秒 · V=IR 比例クイズ</div>
+      <video controls preload="metadata" src="shorts/ja/rika/ohm-law/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/rika/ohm-law/short.mp4">MP4</a></div>
+    </article>
+  </div>
+</section>
+
+<section id="sugaku">
+  <h2>数学</h2>
+  <div class="grid">
+    <article>
+      <h3>方程式は天秤</h3>
+      <div class="meta">17秒 · 等式の性質 · x+3=7</div>
+      <video controls preload="metadata" src="shorts/ja/sugaku/equation-balance/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/sugaku/equation-balance/short.mp4">MP4</a></div>
+    </article>
+  </div>
+</section>
+
+<section id="kokugo">
+  <h2>国語</h2>
+  <div class="grid">
+    <article>
+      <h3>漢字の成り立ち</h3>
+      <div class="meta">14秒 · 象形・指事・会意・形声</div>
+      <video controls preload="metadata" src="shorts/ja/kokugo/kanji-keisei/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/kokugo/kanji-keisei/short.mp4">MP4</a></div>
+    </article>
+  </div>
+</section>
+
+<section id="eigo">
+  <h2>英語</h2>
+  <div class="grid">
+    <article>
+      <h3>三単現のs</h3>
+      <div class="meta">11秒 · He plays の合図</div>
+      <video controls preload="metadata" src="shorts/ja/eigo/third-person-s/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/eigo/third-person-s/short.mp4">MP4</a></div>
+    </article>
+    <article>
+      <h3>過去形ed</h3>
+      <div class="meta">13秒 · 規則動詞の3パターン</div>
+      <video controls preload="metadata" src="shorts/ja/eigo/past-tense-ed/short.mp4"></video>
+      <div class="links"><a href="shorts/ja/eigo/past-tense-ed/short.mp4">MP4</a></div>
+    </article>
+  </div>
+</section>
+
+<section id="lessons">
+  <h2>レッスン</h2>
+  <div class="grid">
+    <article class="lesson">
+      <h3>レッスン1 — 秘密をアップロードするな</h3>
+      <div class="meta">約40秒 · 日本語音声</div>
+      <video controls preload="metadata" src="lessons/lesson1-ja-voiced.mp4"></video>
+      <div class="links"><a href="lessons/lesson1-ja-voiced.mp4">MP4</a> · <a href="lesson1-ja-voiced.mp4">互換URL</a></div>
+    </article>
+    <article class="lesson">
+      <h3>Lesson 1 — Stop Uploading Secrets</h3>
+      <div class="meta">約36秒 · English</div>
+      <video controls preload="metadata" poster="thumb.png" src="lessons/lesson1-voiced.mp4"></video>
+      <div class="links"><a href="lessons/lesson1-voiced.mp4">MP4</a></div>
+    </article>
+    <article class="lesson">
+      <h3>Lesson 2 — Base64 Is Not Encryption</h3>
+      <div class="meta">約16秒 · English</div>
+      <video controls preload="metadata" src="lessons/lesson2-voiced.mp4"></video>
+      <div class="links"><a href="lessons/lesson2-voiced.mp4">MP4</a></div>
+    </article>
+  </div>
+</section>
+
+<footer>
+  <p><a href="accounts/" style="color:var(--accent)">アカウント作成手順（スライド）</a></p>
+  <p>機械可読一覧: <a href="catalog.json" style="color:var(--accent)">catalog.json</a> · 無料ツール: <a href="https://es-plane.github.io/json-tools/" style="color:var(--accent)">json-tools</a></p>
+  <p>es-plane/edu-videos — public educational artifacts only.</p>
+</footer>
+</div>
+<script>
+fetch('https://abacus.jasoncameron.dev/hit/edu-videos-ja/short1-page')
+.then(r=>r.json()).then(d=>{document.getElementById('vc').textContent=d.value})
+.catch(()=>{document.getElementById('vc').textContent='—'});
+</script>
 </body>
 </html>
