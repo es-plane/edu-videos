@@ -1,0 +1,12 @@
+{
+  "id": "simultaneous52",
+  "subject": "sugaku",
+  "title_ja": "連立クイズ:x+y=7,x-y=3",
+  "title_en": "Simultaneous Quiz",
+  "duration_s": 18.05,
+  "resolution": "1080x1920",
+  "winner": "V8 (quiz shell+使い分け, 39/40)",
+  "pattern_id": "p46-math-simultaneous",
+  "curriculum_beat": "連立方程式—クイズ旗艦",
+  "path": "shorts/ja/sugaku/simultaneous52/short.mp4"
+}
