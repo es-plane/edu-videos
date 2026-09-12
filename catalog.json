@@ -223,6 +223,18 @@
       "pattern_id": "rubric-v2-brushup",
       "curriculum_beat": "ディジタル化—クイズつきv2",
       "path": "shorts/ja/joho/pixels-digits-v2/short.mp4"
+    },
+    {
+      "id": "infinitive-quiz",
+      "subject": "eigo",
+      "title_ja": "不定詞クイズ:toの後は原形",
+      "title_en": "Infinitive Quiz: base form after to",
+      "duration_s": 11.05,
+      "resolution": "1080x1920",
+      "winner": "V7 (quiz+why-strip)",
+      "pattern_id": "p28-english-infinitive",
+      "curriculum_beat": "不定詞 to+原形—ライクかライクスか選択クイズ",
+      "path": "shorts/ja/eigo/infinitive-quiz/short.mp4"
     }
   ],
   "lessons": [
