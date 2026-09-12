@@ -295,6 +295,66 @@
       "pattern_id": "p30-math-function",
       "curriculum_beat": "比例・反比例のグラフ判別—誤答警告+クイズ",
       "path": "shorts/ja/sugaku/function-warning/short.mp4"
+    },
+    {
+      "id": "proof-sanpen",
+      "subject": "sugaku",
+      "title_ja": "90%が間違える合同の条件",
+      "title_en": "Congruence Trap",
+      "duration_s": 19.05,
+      "resolution": "1080x1920",
+      "winner": "V8 (warning+demo+quiz, 39/40)",
+      "pattern_id": "p32-math-proof",
+      "curriculum_beat": "合同条件・三辺相等—誤答警告+クイズ",
+      "path": "shorts/ja/sugaku/proof-sanpen/short.mp4"
+    },
+    {
+      "id": "genetics-aa",
+      "subject": "rika",
+      "title_ja": "Aaの自家受粉3:1",
+      "title_en": "Mendel 3:1",
+      "duration_s": 18.05,
+      "resolution": "1080x1920",
+      "winner": "V7 (Aa diagram+エンドウ, 39/40)",
+      "pattern_id": "p33-science-genetics",
+      "curriculum_beat": "優性劣性・分離の法則—Aa自家受粉",
+      "path": "shorts/ja/rika/genetics-aa/short.mp4"
+    },
+    {
+      "id": "comparison-taller",
+      "subject": "eigo",
+      "title_ja": "比較級クイズ:tallerはどっち",
+      "title_en": "Comparative Quiz",
+      "duration_s": 11.05,
+      "resolution": "1080x1920",
+      "winner": "V7 (quiz+why-strip, 38/40)",
+      "pattern_id": "p34-english-comparison",
+      "curriculum_beat": "比較級taller/more tall選択クイズ",
+      "path": "shorts/ja/eigo/comparison-taller/short.mp4"
+    },
+    {
+      "id": "constitution-25",
+      "subject": "shakai",
+      "title_ja": "90%が間違える25条の権利",
+      "title_en": "Article 25 Quiz",
+      "duration_s": 17.56,
+      "resolution": "1080x1920",
+      "winner": "V8 (warning+quiz+rule, 39/40)",
+      "pattern_id": "p35-civics-constitution",
+      "curriculum_beat": "生存権・25条—誤答警告+クイズ",
+      "path": "shorts/ja/shakai/constitution-25/short.mp4"
+    },
+    {
+      "id": "keihin-keiyo",
+      "subject": "shakai",
+      "title_ja": "90%が落ちる京浜と京葉",
+      "title_en": "Keihin vs Keiyo",
+      "duration_s": 17.05,
+      "resolution": "1080x1920",
+      "winner": "V3 (誤答警告 京浜○京葉×, 39/40)",
+      "pattern_id": "p36-geography-japan",
+      "curriculum_beat": "工業地帯の判別—誤答警告型",
+      "path": "shorts/ja/shakai/keihin-keiyo/short.mp4"
     }
   ],
   "lessons": [
