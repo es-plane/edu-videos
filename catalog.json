@@ -503,6 +503,78 @@
       "pattern_id": "p48-recap-2",
       "curriculum_beat": "合同+確率+憲法—総復習",
       "path": "shorts/ja/recap/recap2-trio/short.mp4"
+    },
+    {
+      "id": "can-trap",
+      "subject": "eigo",
+      "title_ja": "90%が間違えるcanの罠",
+      "title_en": "Can Trap",
+      "duration_s": 20.54,
+      "resolution": "1080x1920",
+      "winner": "V8 (warning+preview+quiz, 39/40)",
+      "pattern_id": "p49-english-can",
+      "curriculum_beat": "助動詞can+原形—誤答警告型",
+      "path": "shorts/ja/eigo/can-trap/short.mp4"
+    },
+    {
+      "id": "inequality-flip",
+      "subject": "sugaku",
+      "title_ja": "不等式クイズ:向きはどっち",
+      "title_en": "Inequality Flip Quiz",
+      "duration_s": 21.06,
+      "resolution": "1080x1920",
+      "winner": "V8 (quiz shell+rule strip, 39/40)",
+      "pattern_id": "p50-math-inequality",
+      "curriculum_beat": "負で割ると反転—クイズ旗艦",
+      "path": "shorts/ja/sugaku/inequality-flip/short.mp4"
+    },
+    {
+      "id": "inflation-deflation",
+      "subject": "shakai",
+      "title_ja": "90%が間違えるインフレとデフレ",
+      "title_en": "Inflation vs Deflation",
+      "duration_s": 17.05,
+      "resolution": "1080x1920",
+      "winner": "V7 (confusion-preview+why, 39/40)",
+      "pattern_id": "p51-civics-economy",
+      "curriculum_beat": "インフレ・デフレの区別—誤答警告型",
+      "path": "shorts/ja/shakai/inflation-deflation/short.mp4"
+    },
+    {
+      "id": "cell-dna",
+      "subject": "rika",
+      "title_ja": "核の中身3階建て:DNA",
+      "title_en": "Cell Nucleus Ladder",
+      "duration_s": 18.05,
+      "resolution": "1080x1920",
+      "winner": "V7 (ladder+ヒト46本, 39/40)",
+      "pattern_id": "p52-science-cell",
+      "curriculum_beat": "染色体・DNA・遺伝子—ladder図",
+      "path": "shorts/ja/rika/cell-dna/short.mp4"
+    },
+    {
+      "id": "kanbun-reten",
+      "subject": "kokugo",
+      "title_ja": "90%漢文:春眠どれから読む",
+      "title_en": "Kanbun Re-ten Quiz",
+      "duration_s": 19.56,
+      "resolution": "1080x1920",
+      "winner": "V7 (hybrid hook+quiz+why, 39/40)",
+      "pattern_id": "p53-kokugo-kanbun",
+      "curriculum_beat": "レ点の読み下し—誤答警告型",
+      "path": "shorts/ja/kokugo/kanbun-reten/short.mp4"
+    },
+    {
+      "id": "world-6states",
+      "subject": "shakai",
+      "title_ja": "六大州全部言える?",
+      "title_en": "Six States Quiz",
+      "duration_s": 18.05,
+      "resolution": "1080x1920",
+      "winner": "V7 (map-teaser hook, 39/40)",
+      "pattern_id": "p54-geography-world",
+      "curriculum_beat": "六大州マップ—クイズ型",
+      "path": "shorts/ja/shakai/world-6states/short.mp4"
     }
   ],
   "lessons": [

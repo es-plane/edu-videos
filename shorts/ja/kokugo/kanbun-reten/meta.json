@@ -1,0 +1,12 @@
+{
+  "id": "kanbun-reten",
+  "subject": "kokugo",
+  "title_ja": "90%漢文:春眠どれから読む",
+  "title_en": "Kanbun Re-ten Quiz",
+  "duration_s": 19.56,
+  "resolution": "1080x1920",
+  "winner": "V7 (hybrid hook+quiz+why, 39/40)",
+  "pattern_id": "p53-kokugo-kanbun",
+  "curriculum_beat": "レ点の読み下し—誤答警告型",
+  "path": "shorts/ja/kokugo/kanbun-reten/short.mp4"
+}
