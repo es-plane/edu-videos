@@ -647,6 +647,66 @@
       "pattern_id": "p60-recap-3",
       "curriculum_beat": "can+不等式+漢文—総復習",
       "path": "shorts/ja/recap/recap3-trio/short.mp4"
+    },
+    {
+      "id": "cell-division",
+      "subject": "rika",
+      "title_ja": "細胞の増え方は2つだけ",
+      "title_en": "Cell Division Duo",
+      "duration_s": 23.06,
+      "resolution": "1080x1920",
+      "winner": "V7 (counts-fused map, 39/40)",
+      "pattern_id": "p61-science-division",
+      "curriculum_beat": "体細胞vs減数分裂—対比マップ",
+      "path": "shorts/ja/rika/cell-division/short.mp4"
+    },
+    {
+      "id": "canyou-skit",
+      "subject": "eigo",
+      "title_ja": "Can you swimって聞かれたら",
+      "title_en": "Can You Skit Quiz",
+      "duration_s": 15.06,
+      "resolution": "1080x1920",
+      "winner": "V8 (skit+quiz+why, 39/40)",
+      "pattern_id": "p62-english-skit",
+      "curriculum_beat": "Can you応答—会話クイズ型",
+      "path": "shorts/ja/eigo/canyou-skit/short.mp4"
+    },
+    {
+      "id": "graph-koten",
+      "subject": "sugaku",
+      "title_ja": "クイズ:交点の座標はどこだ",
+      "title_en": "Intersection Quiz",
+      "duration_s": 17.05,
+      "resolution": "1080x1920",
+      "winner": "V8 (quiz shell+draw-on, 39/40)",
+      "pattern_id": "p63-math-graph",
+      "curriculum_beat": "連立の解=交点—クイズ旗艦",
+      "path": "shorts/ja/sugaku/graph-koten/short.mp4"
+    },
+    {
+      "id": "finance-flow",
+      "subject": "shakai",
+      "title_ja": "国のお金の流れ2つだけ",
+      "title_en": "Revenue vs Spending",
+      "duration_s": 18.05,
+      "resolution": "1080x1920",
+      "winner": "V7 (confusion-preview, 39/40)",
+      "pattern_id": "p64-civics-finance",
+      "curriculum_beat": "歳入と歳出—クイズ型",
+      "path": "shorts/ja/shakai/finance-flow/short.mp4"
+    },
+    {
+      "id": "recap4-trap",
+      "subject": "recap",
+      "title_ja": "90%誤答3連発の総復習",
+      "title_en": "Recap Trap Trio",
+      "duration_s": 25.05,
+      "resolution": "1080x1920",
+      "winner": "V8 (誤答-first trio, 39/40)",
+      "pattern_id": "p65-recap-4",
+      "curriculum_beat": "細胞+税+世界—総復習",
+      "path": "shorts/ja/recap/recap4-trap/short.mp4"
     }
   ],
   "lessons": [
