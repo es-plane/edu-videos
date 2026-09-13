@@ -5,8 +5,9 @@
   "title_en": "Article 25 Quiz",
   "duration_s": 17.56,
   "resolution": "1080x1920",
-  "winner": "V8 (warning+quiz+rule, 39/40)",
+  "winner": "V8 (warning+quiz+rule, 39/40)+trust-regen concrete hooks + sharp CTA",
   "pattern_id": "p35-civics-constitution",
   "curriculum_beat": "生存権・25条—誤答警告+クイズ",
-  "path": "shorts/ja/shakai/constitution-25/short.mp4"
+  "path": "shorts/ja/shakai/constitution-25/short.mp4",
+  "trust": "pass"
 }

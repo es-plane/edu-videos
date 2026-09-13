@@ -5,8 +5,9 @@
   "title_en": "Action-Reaction Trap",
   "duration_s": 18.05,
   "resolution": "1080x1920",
-  "winner": "V3 (誤答 別物体, 39/40)",
+  "winner": "V3 (誤答 別物体, 39/40)+trust-regen concrete hooks + sharp CTA",
   "pattern_id": "p38-science-force",
   "curriculum_beat": "作用反作用vsつり合い—誤答警告型",
-  "path": "shorts/ja/rika/force-reaction/short.mp4"
+  "path": "shorts/ja/rika/force-reaction/short.mp4",
+  "trust": "pass"
 }
