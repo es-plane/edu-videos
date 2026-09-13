@@ -1,13 +1,13 @@
 {
   "id": "bunpou-warning",
   "subject": "kokugo",
-  "title_ja": "90%が間違える「きれい」は何詞",
-  "title_en": "Keiyodoushi Trap",
+  "title_ja": "「きれいだ」は何詞",
+  "title_en": "Keirei-da Quiz (remake)",
   "duration_s": 16.55,
   "resolution": "1080x1920",
-  "winner": "V7 (誤答警告+example, 34/35)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
+  "winner": "FULL REMAKE v2.4 (same-form Q/A, withheld quiz, transfer-Q CTA)",
   "pattern_id": "p29-kokugo-bunpou",
-  "curriculum_beat": "形容動詞の見分け—誤答警告型",
+  "curriculum_beat": "形容動詞の見分け—終止形テスト",
   "path": "shorts/ja/kokugo/bunpou-warning/short.mp4",
   "trust": "pass",
   "lane": "study30s/8f2b"
