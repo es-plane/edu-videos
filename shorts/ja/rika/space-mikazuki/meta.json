@@ -5,8 +5,9 @@
   "title_en": "Moon Quiz",
   "duration_s": 20.05,
   "resolution": "1080x1920",
-  "winner": "V6 (warning+verdict+chips, 39/40)",
+  "winner": "V6 (warning+verdict+chips, 39/40)+trust-regen concrete hooks + sharp CTA",
   "pattern_id": "p73-science-space",
   "curriculum_beat": "満ち欠け・太陽系—総復習型",
-  "path": "shorts/ja/rika/space-mikazuki/short.mp4"
+  "path": "shorts/ja/rika/space-mikazuki/short.mp4",
+  "trust": "pass"
 }
