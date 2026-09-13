@@ -5,10 +5,11 @@
   "title_en": "Energy Conversion Trap",
   "duration_s": 19.65,
   "resolution": "1080x1920",
-  "winner": "V8 (warning+rule+quiz, 39/40)+trust-regen concrete hooks + sharp CTA",
+  "winner": "V8 (warning+rule+quiz, 39/40)+trust-regen concrete hooks + sharp CTA+loudnorm-19LUFS",
   "pattern_id": "p43-tech-energy",
   "curriculum_beat": "エネルギー変換—誤答警告型",
   "path": "shorts/ja/joho/energy-convert/short.mp4",
   "trust": "pass",
-  "lane": "keep-45c5"
+  "lane": "keep-45c5",
+  "loud": "-19LUFS"
 }
