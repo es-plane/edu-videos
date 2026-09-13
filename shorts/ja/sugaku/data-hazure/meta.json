@@ -1,0 +1,18 @@
+{
+  "id": "data-hazure",
+  "subject": "sugaku",
+  "title_ja": "外れ値の罠",
+  "title_en": "Outlier Quiz",
+  "duration_s": 23.55,
+  "resolution": "1080x1920",
+  "winner": "p85 V6 stack (39/40)",
+  "pattern_id": "p85-data-heikin",
+  "curriculum_beat": "外れ値 trap—step-pick",
+  "path": "shorts/ja/sugaku/data-hazure/short.mp4",
+  "cta": {
+    "kind": "step-pick",
+    "expected": "1"
+  },
+  "trust": "pass",
+  "lane": "techtech331/45c5"
+}

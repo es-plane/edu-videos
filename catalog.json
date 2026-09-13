@@ -1121,6 +1121,132 @@
       },
       "trust": "pass",
       "lane": "study30s/8f2b"
+    },
+    {
+      "id": "network-packets",
+      "subject": "joho",
+      "title_ja": "IPアドレスの変な使い方",
+      "title_en": "IP Address Quiz",
+      "duration_s": 20.52,
+      "resolution": "1080x1920",
+      "winner": "p81 V6 (39/40)",
+      "pattern_id": "p81-network-packets",
+      "curriculum_beat": "IP重複・パケット—step-pick",
+      "path": "shorts/ja/joho/network-packets/short.mp4",
+      "cta": {
+        "kind": "step-pick",
+        "expected": "2"
+      },
+      "trust": "pass",
+      "lane": "techtech331/45c5"
+    },
+    {
+      "id": "koji-seiou",
+      "subject": "kokugo",
+      "title_ja": "塞翁が馬クイズ",
+      "title_en": "Saiou Story Quiz",
+      "duration_s": 26.03,
+      "resolution": "1080x1920",
+      "winner": "p82 V2 (39/40)",
+      "pattern_id": "p82-koji-seiou",
+      "curriculum_beat": "塞翁が馬 由来—step-pick",
+      "path": "shorts/ja/kokugo/koji-seiou/short.mp4",
+      "cta": {
+        "kind": "step-pick",
+        "expected": "2"
+      },
+      "trust": "pass",
+      "lane": "study30s/8f2b"
+    },
+    {
+      "id": "present-perfect",
+      "subject": "eigo",
+      "title_ja": "経験のhaveクイズ",
+      "title_en": "Present Perfect Quiz",
+      "duration_s": 23.06,
+      "resolution": "1080x1920",
+      "winner": "p83 V0 (39/40)",
+      "pattern_id": "p83-present-perfect-keiken",
+      "curriculum_beat": "経験用法—step-pick",
+      "path": "shorts/ja/eigo/present-perfect/short.mp4",
+      "cta": {
+        "kind": "step-pick",
+        "expected": "2"
+      },
+      "trust": "pass",
+      "lane": "study30s/8f2b"
+    },
+    {
+      "id": "neutralization-core",
+      "subject": "rika",
+      "title_ja": "中和の変な点",
+      "title_en": "Neutralization Quiz",
+      "duration_s": 26.05,
+      "resolution": "1080x1920",
+      "winner": "p84 V1 (39/40)",
+      "pattern_id": "p84-neutralization-chuwa",
+      "curriculum_beat": "中和 core—step-pick",
+      "path": "shorts/ja/rika/neutralization-core/short.mp4",
+      "cta": {
+        "kind": "step-pick",
+        "expected": "3"
+      },
+      "trust": "pass",
+      "lane": "senseim0m0-Momo/0089"
+    },
+    {
+      "id": "neutralization-btb",
+      "subject": "rika",
+      "title_ja": "BTBの色クイズ",
+      "title_en": "BTB Color Quiz",
+      "duration_s": 26.05,
+      "resolution": "1080x1920",
+      "winner": "p84 V5 (39/40)",
+      "pattern_id": "p84-neutralization-chuwa",
+      "curriculum_beat": "BTB指示薬—step-pick",
+      "path": "shorts/ja/rika/neutralization-btb/short.mp4",
+      "cta": {
+        "kind": "step-pick",
+        "expected": "3"
+      },
+      "trust": "pass",
+      "lane": "senseim0m0-Momo/0089"
+    },
+    {
+      "id": "data-heikin",
+      "subject": "sugaku",
+      "title_ja": "平均値の落とし穴",
+      "title_en": "Average Quiz",
+      "duration_s": 23.06,
+      "resolution": "1080x1920",
+      "winner": "p85 V6 (39/40)",
+      "pattern_id": "p85-data-heikin",
+      "curriculum_beat": "平均値 core—step-pick",
+      "path": "shorts/ja/sugaku/data-heikin/short.mp4",
+      "cta": {
+        "kind": "step-pick",
+        "expected": "2"
+      },
+      "trust": "pass",
+      "lane": "techtech331/45c5"
+    },
+    {
+      "id": "data-hazure",
+      "subject": "sugaku",
+      "title_ja": "外れ値の罠",
+      "title_en": "Outlier Quiz",
+      "duration_s": 23.55,
+      "resolution": "1080x1920",
+      "winner": "p85 V6 stack (39/40)",
+      "pattern_id": "p85-data-heikin",
+      "curriculum_beat": "外れ値 trap—step-pick",
+      "path": "shorts/ja/sugaku/data-hazure/short.mp4",
+      "cta": {
+        "kind": "step-pick",
+        "expected": "1"
+      },
+      "trust": "pass",
+      "lane": "techtech331/45c5"
     }
   ],
   "lessons": [

@@ -1,0 +1,18 @@
+{
+  "id": "network-packets",
+  "subject": "joho",
+  "title_ja": "IPアドレスの変な使い方",
+  "title_en": "IP Address Quiz",
+  "duration_s": 20.52,
+  "resolution": "1080x1920",
+  "winner": "p81 V6 (39/40)",
+  "pattern_id": "p81-network-packets",
+  "curriculum_beat": "IP重複・パケット—step-pick",
+  "path": "shorts/ja/joho/network-packets/short.mp4",
+  "cta": {
+    "kind": "step-pick",
+    "expected": "2"
+  },
+  "trust": "pass",
+  "lane": "techtech331/45c5"
+}

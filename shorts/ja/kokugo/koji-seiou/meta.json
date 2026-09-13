@@ -1,0 +1,18 @@
+{
+  "id": "koji-seiou",
+  "subject": "kokugo",
+  "title_ja": "塞翁が馬クイズ",
+  "title_en": "Saiou Story Quiz",
+  "duration_s": 26.03,
+  "resolution": "1080x1920",
+  "winner": "p82 V2 (39/40)",
+  "pattern_id": "p82-koji-seiou",
+  "curriculum_beat": "塞翁が馬 由来—step-pick",
+  "path": "shorts/ja/kokugo/koji-seiou/short.mp4",
+  "cta": {
+    "kind": "step-pick",
+    "expected": "2"
+  },
+  "trust": "pass",
+  "lane": "study30s/8f2b"
+}
