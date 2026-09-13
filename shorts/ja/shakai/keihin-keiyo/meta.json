@@ -5,7 +5,7 @@
   "title_en": "Keihin vs Keiyo",
   "duration_s": 17.05,
   "resolution": "1080x1920",
-  "winner": "V3 (誤答警告 京浜○京葉×, 39/40) + trust-regen",
+  "winner": "V3 (誤答警告 京浜○京葉×, 39/40) + trust-regen+lane-voice study30s/8f2b",
   "pattern_id": "p36-geography-japan",
   "curriculum_beat": "工業地帯の判別—誤答警告型",
   "path": "shorts/ja/shakai/keihin-keiyo/short.mp4",
@@ -13,5 +13,6 @@
     "kind": "trap-word",
     "expected": "京浜"
   },
-  "trust": "pass"
+  "trust": "pass",
+  "lane": "study30s/8f2b"
 }
