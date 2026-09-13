@@ -5,9 +5,10 @@
   "title_en": "Mendel 3:1",
   "duration_s": 18.05,
   "resolution": "1080x1920",
-  "winner": "V7 (Aa diagram+エンドウ, 39/40)+v2 kana-explicit Aa readings (ASR-verified)",
+  "winner": "V7 (Aa diagram+エンドウ, 39/40)+v2 kana-explicit Aa readings (ASR-verified)+lane-voice senseim0m0-Momo/0089",
   "pattern_id": "p33-science-genetics",
   "curriculum_beat": "優性劣性・分離の法則—Aa自家受粉",
   "path": "shorts/ja/rika/genetics-aa/short.mp4",
-  "tts": "read-verified"
+  "tts": "read-verified",
+  "lane": "senseim0m0-Momo/0089"
 }
