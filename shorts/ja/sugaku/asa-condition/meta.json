@@ -5,8 +5,9 @@
   "title_en": "ASA Condition Quiz",
   "duration_s": 20.05,
   "resolution": "1080x1920",
-  "winner": "V8 (warning+demo+quiz, 39/40)",
+  "winner": "V8 (warning+demo+quiz, 39/40)+v2 Latin->kana + trust regen (ASR-verified)",
   "pattern_id": "p67-math-asa",
   "curriculum_beat": "ASA合同条件—誤答警告型",
-  "path": "shorts/ja/sugaku/asa-condition/short.mp4"
+  "path": "shorts/ja/sugaku/asa-condition/short.mp4",
+  "tts": "read-verified"
 }

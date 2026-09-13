@@ -5,8 +5,9 @@
   "title_en": "Recap Trap Trio",
   "duration_s": 25.05,
   "resolution": "1080x1920",
-  "winner": "V8 (誤答-first trio, 39/40)",
+  "winner": "V8 (誤答-first trio, 39/40)+v2 DNA->kana + trust regen (ASR-verified)",
   "pattern_id": "p65-recap-4",
   "curriculum_beat": "細胞+税+世界—総復習",
-  "path": "shorts/ja/recap/recap4-trap/short.mp4"
+  "path": "shorts/ja/recap/recap4-trap/short.mp4",
+  "tts": "read-verified"
 }
