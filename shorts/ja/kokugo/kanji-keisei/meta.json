@@ -5,9 +5,10 @@
   "title_en": "How Kanji Are Formed",
   "duration_s": 14.06,
   "resolution": "1080x1920",
-  "winner": "V8/k8",
+  "winner": "LEGACY-REBUILD study30s/8f2b (trust-pass sharp 39/40, ASR-verified)",
   "pattern_id": "p11-kokugo-kanji",
   "curriculum_beat": "象形・指事・会意・形声を1例ずつ（山・上・休・晴）",
   "path": "shorts/ja/kokugo/kanji-keisei/short.mp4",
-  "lane": "legacy-45c5-pending-rebuild"
+  "lane": "study30s/8f2b",
+  "trust": "pass"
 }

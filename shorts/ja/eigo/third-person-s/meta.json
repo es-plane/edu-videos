@@ -5,9 +5,10 @@
   "title_en": "Third-Person Singular -s",
   "duration_s": 11.05,
   "resolution": "1080x1920",
-  "winner": "V7/e7",
+  "winner": "LEGACY-REBUILD study30s/8f2b (trust-pass sharp 39/40, ASR-verified)",
   "pattern_id": "p07-english-3rd",
   "curriculum_beat": "He playsのsは3人称・単数・現在の合図",
   "path": "shorts/ja/eigo/third-person-s/short.mp4",
-  "lane": "legacy-45c5-pending-rebuild"
+  "lane": "study30s/8f2b",
+  "trust": "pass"
 }
