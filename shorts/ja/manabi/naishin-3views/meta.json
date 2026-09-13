@@ -5,7 +5,7 @@
   "title_en": "Naishin Attitude",
   "duration_s": 17.05,
   "resolution": "1080x1920",
-  "winner": "V8 (warning+checklist+保存CTA, 39/40) + trust-regen",
+  "winner": "V8 (warning+checklist+保存CTA, 39/40) + trust-regen+lane-voice test_study_lab/0089",
   "pattern_id": "p42-study-naishin",
   "curriculum_beat": "内申3観点—保護者向け学習法型",
   "path": "shorts/ja/manabi/naishin-3views/short.mp4",
@@ -13,5 +13,6 @@
     "kind": "save",
     "expected": "保存"
   },
-  "trust": "pass"
+  "trust": "pass",
+  "lane": "test_study_lab/0089"
 }
