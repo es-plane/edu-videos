@@ -5,8 +5,9 @@
   "title_en": "Inflation vs Deflation",
   "duration_s": 17.05,
   "resolution": "1080x1920",
-  "winner": "V7 (confusion-preview+why, 39/40)",
+  "winner": "V7 (confusion-preview+why, 39/40)+trust-regen concrete hooks + sharp CTA",
   "pattern_id": "p51-civics-economy",
   "curriculum_beat": "インフレ・デフレの区別—誤答警告型",
-  "path": "shorts/ja/shakai/inflation-deflation/short.mp4"
+  "path": "shorts/ja/shakai/inflation-deflation/short.mp4",
+  "trust": "pass"
 }
