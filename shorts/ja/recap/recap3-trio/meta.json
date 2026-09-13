@@ -5,9 +5,10 @@
   "title_en": "Recap Trio 3",
   "duration_s": 19.05,
   "resolution": "1080x1920",
-  "winner": "V8 (warning+diagram+quiz, 39/40)+trust-regen concrete hooks + sharp CTA",
+  "winner": "V8 (warning+diagram+quiz, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice test_study_lab/0089",
   "pattern_id": "p60-recap-3",
   "curriculum_beat": "can+不等式+漢文—総復習",
   "path": "shorts/ja/recap/recap3-trio/short.mp4",
-  "trust": "pass"
+  "trust": "pass",
+  "lane": "test_study_lab/0089"
 }
