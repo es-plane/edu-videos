@@ -235,10 +235,12 @@
       "title_en": "Infinitive Quiz: base form after to",
       "duration_s": 11.05,
       "resolution": "1080x1920",
-      "winner": "V7 (quiz+why-strip)",
+      "winner": "V7 (quiz+why-strip)+sharp CTA line added (ASR-verified)+lane-voice study30s/8f2b",
       "pattern_id": "p28-english-infinitive",
       "curriculum_beat": "不定詞 to+原形—ライクかライクスか選択クイズ",
-      "path": "shorts/ja/eigo/infinitive-quiz/short.mp4"
+      "path": "shorts/ja/eigo/infinitive-quiz/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "kaikoku-quiz",
@@ -247,10 +249,12 @@
       "title_en": "Opening Quiz: Black Ships year",
       "duration_s": 15.36,
       "resolution": "1080x1920",
-      "winner": "V4 (年号クイズ 1853/1854)",
+      "winner": "V4 (年号クイズ 1853/1854)+sharp CTA upgrade (ASR-verified)+lane-voice study30s/8f2b",
       "pattern_id": "p27-history-kaikoku-meiji",
       "curriculum_beat": "ペリー来航1853・日米和親条約1854のQ→Aクイズ",
-      "path": "shorts/ja/shakai/kaikoku-quiz/short.mp4"
+      "path": "shorts/ja/shakai/kaikoku-quiz/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "equation-quiz",
@@ -271,10 +275,12 @@
       "title_en": "Ion Quiz CaCl2",
       "duration_s": 15.06,
       "resolution": "1080x1920",
-      "winner": "V4 (3-choice quiz+echo+CTA)",
+      "winner": "V4 (3-choice quiz+echo+CTA)+sharp CTA upgrade (ASR-verified)+lane-voice senseim0m0-Momo/0089",
       "pattern_id": "p26-science-ion",
       "curriculum_beat": "CaCl2の化学式—陽イオン陰イオン選択クイズ",
-      "path": "shorts/ja/rika/ion-cacl2-quiz/short.mp4"
+      "path": "shorts/ja/rika/ion-cacl2-quiz/short.mp4",
+      "lane": "senseim0m0-Momo/0089",
+      "trust": "pass"
     },
     {
       "id": "bunpou-warning",
@@ -283,10 +289,12 @@
       "title_en": "Keiyodoushi Trap",
       "duration_s": 16.55,
       "resolution": "1080x1920",
-      "winner": "V7 (誤答警告+example, 34/35)",
+      "winner": "V7 (誤答警告+example, 34/35)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
       "pattern_id": "p29-kokugo-bunpou",
       "curriculum_beat": "形容動詞の見分け—誤答警告型",
-      "path": "shorts/ja/kokugo/bunpou-warning/short.mp4"
+      "path": "shorts/ja/kokugo/bunpou-warning/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "function-warning",
@@ -295,10 +303,11 @@
       "title_en": "Proportion Trap",
       "duration_s": 16.55,
       "resolution": "1080x1920",
-      "winner": "V8 (warning+rule+quiz fusion, 34/35)",
+      "winner": "V8 (warning+rule+quiz fusion, 34/35)+trust-regen concrete hooks + sharp CTA",
       "pattern_id": "p30-math-function",
       "curriculum_beat": "比例・反比例のグラフ判別—誤答警告+クイズ",
-      "path": "shorts/ja/sugaku/function-warning/short.mp4"
+      "path": "shorts/ja/sugaku/function-warning/short.mp4",
+      "trust": "pass"
     },
     {
       "id": "proof-sanpen",
@@ -307,10 +316,11 @@
       "title_en": "Congruence Trap",
       "duration_s": 19.05,
       "resolution": "1080x1920",
-      "winner": "V8 (warning+demo+quiz, 39/40)",
+      "winner": "V8 (warning+demo+quiz, 39/40)+trust-regen concrete hooks + sharp CTA",
       "pattern_id": "p32-math-proof",
       "curriculum_beat": "合同条件・三辺相等—誤答警告+クイズ",
-      "path": "shorts/ja/sugaku/proof-sanpen/short.mp4"
+      "path": "shorts/ja/sugaku/proof-sanpen/short.mp4",
+      "trust": "pass"
     },
     {
       "id": "genetics-aa",
@@ -319,10 +329,11 @@
       "title_en": "Mendel 3:1",
       "duration_s": 18.05,
       "resolution": "1080x1920",
-      "winner": "V7 (Aa diagram+エンドウ, 39/40)",
+      "winner": "V7 (Aa diagram+エンドウ, 39/40)+v2 kana-explicit Aa readings (ASR-verified)+lane-voice senseim0m0-Momo/0089",
       "pattern_id": "p33-science-genetics",
       "curriculum_beat": "優性劣性・分離の法則—Aa自家受粉",
-      "path": "shorts/ja/rika/genetics-aa/short.mp4"
+      "path": "shorts/ja/rika/genetics-aa/short.mp4",
+      "lane": "senseim0m0-Momo/0089"
     },
     {
       "id": "comparison-taller",
@@ -331,10 +342,11 @@
       "title_en": "Comparative Quiz",
       "duration_s": 11.05,
       "resolution": "1080x1920",
-      "winner": "V7 (quiz+why-strip, 38/40)",
+      "winner": "V7 (quiz+why-strip, 38/40)+lane-voice study30s/8f2b",
       "pattern_id": "p34-english-comparison",
       "curriculum_beat": "比較級taller/more tall選択クイズ",
-      "path": "shorts/ja/eigo/comparison-taller/short.mp4"
+      "path": "shorts/ja/eigo/comparison-taller/short.mp4",
+      "lane": "study30s/8f2b"
     },
     {
       "id": "constitution-25",
@@ -343,10 +355,12 @@
       "title_en": "Article 25 Quiz",
       "duration_s": 17.56,
       "resolution": "1080x1920",
-      "winner": "V8 (warning+quiz+rule, 39/40)",
+      "winner": "V8 (warning+quiz+rule, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
       "pattern_id": "p35-civics-constitution",
       "curriculum_beat": "生存権・25条—誤答警告+クイズ",
-      "path": "shorts/ja/shakai/constitution-25/short.mp4"
+      "path": "shorts/ja/shakai/constitution-25/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "keihin-keiyo",
@@ -355,10 +369,12 @@
       "title_en": "Keihin vs Keiyo",
       "duration_s": 17.05,
       "resolution": "1080x1920",
-      "winner": "V3 (誤答警告 京浜○京葉×, 39/40)",
+      "winner": "V3 (誤答警告 京浜○京葉×, 39/40) + trust-regen+lane-voice study30s/8f2b",
       "pattern_id": "p36-geography-japan",
       "curriculum_beat": "工業地帯の判別—誤答警告型",
-      "path": "shorts/ja/shakai/keihin-keiyo/short.mp4"
+      "path": "shorts/ja/shakai/keihin-keiyo/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "force-reaction",
@@ -367,10 +383,12 @@
       "title_en": "Action-Reaction Trap",
       "duration_s": 18.05,
       "resolution": "1080x1920",
-      "winner": "V3 (誤答 別物体, 39/40)",
+      "winner": "V3 (誤答 別物体, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice senseim0m0-Momo/0089",
       "pattern_id": "p38-science-force",
       "curriculum_beat": "作用反作用vsつり合い—誤答警告型",
-      "path": "shorts/ja/rika/force-reaction/short.mp4"
+      "path": "shorts/ja/rika/force-reaction/short.mp4",
+      "lane": "senseim0m0-Momo/0089",
+      "trust": "pass"
     },
     {
       "id": "kobun-kehu",
@@ -379,10 +397,11 @@
       "title_en": "Kobun Reading Trap",
       "duration_s": 16.04,
       "resolution": "1080x1920",
-      "winner": "V7 (誤答+CTA, 39/40)",
+      "winner": "V7 (誤答+CTA, 39/40)+lane-voice study30s/8f2b",
       "pattern_id": "p39-kokugo-kobun",
       "curriculum_beat": "歴史的仮名遣い—誤答警告型",
-      "path": "shorts/ja/kokugo/kobun-kehu/short.mp4"
+      "path": "shorts/ja/kokugo/kobun-kehu/short.mp4",
+      "lane": "study30s/8f2b"
     },
     {
       "id": "probability-coin",
@@ -391,10 +410,11 @@
       "title_en": "Coin Trap",
       "duration_s": 21.06,
       "resolution": "1080x1920",
-      "winner": "V7 (誤答+why-strip, 39/40)",
+      "winner": "V7 (誤答+why-strip, 39/40)+trust-regen concrete hooks + sharp CTA",
       "pattern_id": "p40-math-probability",
       "curriculum_beat": "コイン2枚の数え漏れ—誤答警告型",
-      "path": "shorts/ja/sugaku/probability-coin/short.mp4"
+      "path": "shorts/ja/sugaku/probability-coin/short.mp4",
+      "trust": "pass"
     },
     {
       "id": "postwar-3years",
@@ -403,10 +423,11 @@
       "title_en": "Postwar 3 Years",
       "duration_s": 19.56,
       "resolution": "1080x1920",
-      "winner": "V7 (timeline×warning, 39/40)",
+      "winner": "V7 (timeline×warning, 39/40)+lane-voice study30s/8f2b",
       "pattern_id": "p41-history-postwar",
       "curriculum_beat": "1945/1947/1951—年表×警告",
-      "path": "shorts/ja/shakai/postwar-3years/short.mp4"
+      "path": "shorts/ja/shakai/postwar-3years/short.mp4",
+      "lane": "study30s/8f2b"
     },
     {
       "id": "naishin-3views",
@@ -415,10 +436,12 @@
       "title_en": "Naishin Attitude",
       "duration_s": 17.05,
       "resolution": "1080x1920",
-      "winner": "V8 (warning+checklist+保存CTA, 39/40)",
+      "winner": "V8 (warning+checklist+保存CTA, 39/40) + trust-regen+lane-voice test_study_lab/0089",
       "pattern_id": "p42-study-naishin",
       "curriculum_beat": "内申3観点—保護者向け学習法型",
-      "path": "shorts/ja/manabi/naishin-3views/short.mp4"
+      "path": "shorts/ja/manabi/naishin-3views/short.mp4",
+      "lane": "test_study_lab/0089",
+      "trust": "pass"
     },
     {
       "id": "network-gentei",
@@ -427,10 +450,11 @@
       "title_en": "Limited-Post Myth",
       "duration_s": 19.56,
       "resolution": "1080x1920",
-      "winner": "V3 (限定公開 誤答警告, 39/40)",
+      "winner": "V3 (限定公開 誤答警告, 39/40)+trust-regen concrete hooks + sharp CTA",
       "pattern_id": "p37-tech-network",
       "curriculum_beat": "情報モラル・限定公開の誤解—誤答警告型",
-      "path": "shorts/ja/joho/network-gentei/short.mp4"
+      "path": "shorts/ja/joho/network-gentei/short.mp4",
+      "trust": "pass"
     },
     {
       "id": "energy-convert",
@@ -439,10 +463,11 @@
       "title_en": "Energy Conversion Trap",
       "duration_s": 19.65,
       "resolution": "1080x1920",
-      "winner": "V8 (warning+rule+quiz, 39/40)",
+      "winner": "V8 (warning+rule+quiz, 39/40)+trust-regen concrete hooks + sharp CTA",
       "pattern_id": "p43-tech-energy",
       "curriculum_beat": "エネルギー変換—誤答警告型",
-      "path": "shorts/ja/joho/energy-convert/short.mp4"
+      "path": "shorts/ja/joho/energy-convert/short.mp4",
+      "trust": "pass"
     },
     {
       "id": "quake-shindo",
@@ -451,10 +476,12 @@
       "title_en": "Shindo vs Magnitude",
       "duration_s": 18.05,
       "resolution": "1080x1920",
-      "winner": "V7 (options-prime hook, 39/40)",
+      "winner": "V7 (options-prime hook, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice senseim0m0-Momo/0089",
       "pattern_id": "p44-science-quake",
       "curriculum_beat": "震度vsマグニチュード—誤答警告型",
-      "path": "shorts/ja/rika/quake-shindo/short.mp4"
+      "path": "shorts/ja/rika/quake-shindo/short.mp4",
+      "lane": "senseim0m0-Momo/0089",
+      "trust": "pass"
     },
     {
       "id": "perfect-kako",
@@ -463,10 +490,12 @@
       "title_en": "Present Perfect Trap",
       "duration_s": 16.04,
       "resolution": "1080x1920",
-      "winner": "V8 (contrast hook, 39/40)",
+      "winner": "V8 (contrast hook, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
       "pattern_id": "p45-english-perfect",
       "curriculum_beat": "現在完了vs過去形—誤答警告型",
-      "path": "shorts/ja/eigo/perfect-kako/short.mp4"
+      "path": "shorts/ja/eigo/perfect-kako/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "simultaneous52",
@@ -487,10 +516,12 @@
       "title_en": "Jomon vs Yayoi",
       "duration_s": 18.56,
       "resolution": "1080x1920",
-      "winner": "V7 (警告+contrast, 39/40)",
+      "winner": "V7 (警告+contrast, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
       "pattern_id": "p47-history-ancient",
       "curriculum_beat": "縄文vs弥生—誤答警告型",
-      "path": "shorts/ja/shakai/kodai-jomon/short.mp4"
+      "path": "shorts/ja/shakai/kodai-jomon/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "recap2-trio",
@@ -499,10 +530,12 @@
       "title_en": "Recap Trio",
       "duration_s": 19.56,
       "resolution": "1080x1920",
-      "winner": "V8 (warning+diagram+quiz, 39/40)",
+      "winner": "V8 (warning+diagram+quiz, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice lab/0089",
       "pattern_id": "p48-recap-2",
       "curriculum_beat": "合同+確率+憲法—総復習",
-      "path": "shorts/ja/recap/recap2-trio/short.mp4"
+      "path": "shorts/ja/recap/recap2-trio/short.mp4",
+      "lane": "lab/0089",
+      "trust": "pass"
     },
     {
       "id": "can-trap",
@@ -511,10 +544,12 @@
       "title_en": "Can Trap",
       "duration_s": 20.54,
       "resolution": "1080x1920",
-      "winner": "V8 (warning+preview+quiz, 39/40)",
+      "winner": "V8 (warning+preview+quiz, 39/40) + trust-regen+lane-voice study30s/8f2b",
       "pattern_id": "p49-english-can",
       "curriculum_beat": "助動詞can+原形—誤答警告型",
-      "path": "shorts/ja/eigo/can-trap/short.mp4"
+      "path": "shorts/ja/eigo/can-trap/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "inequality-flip",
@@ -535,10 +570,12 @@
       "title_en": "Inflation vs Deflation",
       "duration_s": 17.05,
       "resolution": "1080x1920",
-      "winner": "V7 (confusion-preview+why, 39/40)",
+      "winner": "V7 (confusion-preview+why, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
       "pattern_id": "p51-civics-economy",
       "curriculum_beat": "インフレ・デフレの区別—誤答警告型",
-      "path": "shorts/ja/shakai/inflation-deflation/short.mp4"
+      "path": "shorts/ja/shakai/inflation-deflation/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "cell-dna",
@@ -547,10 +584,11 @@
       "title_en": "Cell Nucleus Ladder",
       "duration_s": 18.05,
       "resolution": "1080x1920",
-      "winner": "V7 (ladder+ヒト46本, 39/40)",
+      "winner": "V7 (ladder+ヒト46本, 39/40)+v2 DNA->kana (ASR-verified)+lane-voice senseim0m0-Momo/0089",
       "pattern_id": "p52-science-cell",
       "curriculum_beat": "染色体・DNA・遺伝子—ladder図",
-      "path": "shorts/ja/rika/cell-dna/short.mp4"
+      "path": "shorts/ja/rika/cell-dna/short.mp4",
+      "lane": "senseim0m0-Momo/0089"
     },
     {
       "id": "kanbun-reten",
@@ -559,10 +597,12 @@
       "title_en": "Kanbun Re-ten Quiz",
       "duration_s": 19.56,
       "resolution": "1080x1920",
-      "winner": "V7 (hybrid hook+quiz+why, 39/40)",
+      "winner": "V7 (hybrid hook+quiz+why, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
       "pattern_id": "p53-kokugo-kanbun",
       "curriculum_beat": "レ点の読み下し—誤答警告型",
-      "path": "shorts/ja/kokugo/kanbun-reten/short.mp4"
+      "path": "shorts/ja/kokugo/kanbun-reten/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "world-6states",
@@ -571,10 +611,11 @@
       "title_en": "Six States Quiz",
       "duration_s": 18.05,
       "resolution": "1080x1920",
-      "winner": "V7 (map-teaser hook, 39/40)",
+      "winner": "V7 (map-teaser hook, 39/40)+lane-voice study30s/8f2b",
       "pattern_id": "p54-geography-world",
       "curriculum_beat": "六大州マップ—クイズ型",
-      "path": "shorts/ja/shakai/world-6states/short.mp4"
+      "path": "shorts/ja/shakai/world-6states/short.mp4",
+      "lane": "study30s/8f2b"
     },
     {
       "id": "because-trap",
@@ -583,10 +624,12 @@
       "title_en": "Because Trap",
       "duration_s": 17.56,
       "resolution": "1080x1920",
-      "winner": "V8 (警告+contrast+why, 39/40)",
+      "winner": "V8 (警告+contrast+why, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
       "pattern_id": "p55-english-connect",
       "curriculum_beat": "because後ろは文—誤答警告型",
-      "path": "shorts/ja/eigo/because-trap/short.mp4"
+      "path": "shorts/ja/eigo/because-trap/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "angle-bisect",
@@ -607,10 +650,11 @@
       "title_en": "Direct vs Indirect Tax",
       "duration_s": 18.56,
       "resolution": "1080x1920",
-      "winner": "V7 (hook+answer-stamp, 39/40)",
+      "winner": "V7 (hook+answer-stamp, 39/40)+lane-voice study30s/8f2b",
       "pattern_id": "p57-civics-tax",
       "curriculum_beat": "直接税vs間接税—クイズ型",
-      "path": "shorts/ja/shakai/tax-chokusetsu/short.mp4"
+      "path": "shorts/ja/shakai/tax-chokusetsu/short.mp4",
+      "lane": "study30s/8f2b"
     },
     {
       "id": "front-kanrei",
@@ -619,10 +663,12 @@
       "title_en": "Cold Front Quiz",
       "duration_s": 19.05,
       "resolution": "1080x1920",
-      "winner": "V7 (warning+quiz, 39/40)",
+      "winner": "V7 (warning+quiz, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice senseim0m0-Momo/0089",
       "pattern_id": "p58-science-front",
       "curriculum_beat": "温暖vs寒冷前線—誤答警告型",
-      "path": "shorts/ja/rika/front-kanrei/short.mp4"
+      "path": "shorts/ja/rika/front-kanrei/short.mp4",
+      "lane": "senseim0m0-Momo/0089",
+      "trust": "pass"
     },
     {
       "id": "shushoku-trap",
@@ -631,10 +677,12 @@
       "title_en": "Modifier Trap",
       "duration_s": 19.05,
       "resolution": "1080x1920",
-      "winner": "V8 (trap+why-strip, 39/40)",
+      "winner": "V8 (trap+why-strip, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
       "pattern_id": "p59-kokugo-seibun",
       "curriculum_beat": "修飾語の見分け—誤答警告型",
-      "path": "shorts/ja/kokugo/shushoku-trap/short.mp4"
+      "path": "shorts/ja/kokugo/shushoku-trap/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "recap3-trio",
@@ -643,10 +691,12 @@
       "title_en": "Recap Trio 3",
       "duration_s": 19.05,
       "resolution": "1080x1920",
-      "winner": "V8 (warning+diagram+quiz, 39/40)",
+      "winner": "V8 (warning+diagram+quiz, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice test_study_lab/0089",
       "pattern_id": "p60-recap-3",
       "curriculum_beat": "can+不等式+漢文—総復習",
-      "path": "shorts/ja/recap/recap3-trio/short.mp4"
+      "path": "shorts/ja/recap/recap3-trio/short.mp4",
+      "lane": "test_study_lab/0089",
+      "trust": "pass"
     },
     {
       "id": "cell-division",
@@ -655,10 +705,11 @@
       "title_en": "Cell Division Duo",
       "duration_s": 23.06,
       "resolution": "1080x1920",
-      "winner": "V7 (counts-fused map, 39/40)",
+      "winner": "V7 (counts-fused map, 39/40)+lane-voice senseim0m0-Momo/0089",
       "pattern_id": "p61-science-division",
       "curriculum_beat": "体細胞vs減数分裂—対比マップ",
-      "path": "shorts/ja/rika/cell-division/short.mp4"
+      "path": "shorts/ja/rika/cell-division/short.mp4",
+      "lane": "senseim0m0-Momo/0089"
     },
     {
       "id": "canyou-skit",
@@ -667,10 +718,11 @@
       "title_en": "Can You Skit Quiz",
       "duration_s": 15.06,
       "resolution": "1080x1920",
-      "winner": "V8 (skit+quiz+why, 39/40)",
+      "winner": "V8 (skit+quiz+why, 39/40)+lane-voice study30s/8f2b",
       "pattern_id": "p62-english-skit",
       "curriculum_beat": "Can you応答—会話クイズ型",
-      "path": "shorts/ja/eigo/canyou-skit/short.mp4"
+      "path": "shorts/ja/eigo/canyou-skit/short.mp4",
+      "lane": "study30s/8f2b"
     },
     {
       "id": "graph-koten",
@@ -691,10 +743,11 @@
       "title_en": "Revenue vs Spending",
       "duration_s": 18.05,
       "resolution": "1080x1920",
-      "winner": "V7 (confusion-preview, 39/40)",
+      "winner": "V7 (confusion-preview, 39/40)+lane-voice study30s/8f2b",
       "pattern_id": "p64-civics-finance",
       "curriculum_beat": "歳入と歳出—クイズ型",
-      "path": "shorts/ja/shakai/finance-flow/short.mp4"
+      "path": "shorts/ja/shakai/finance-flow/short.mp4",
+      "lane": "study30s/8f2b"
     },
     {
       "id": "recap4-trap",
@@ -703,10 +756,11 @@
       "title_en": "Recap Trap Trio",
       "duration_s": 25.05,
       "resolution": "1080x1920",
-      "winner": "V8 (誤答-first trio, 39/40)",
+      "winner": "V8 (誤答-first trio, 39/40)+v2 DNA->kana + trust regen (ASR-verified)+lane-voice test_study_lab/0089",
       "pattern_id": "p65-recap-4",
       "curriculum_beat": "細胞+税+世界—総復習",
-      "path": "shorts/ja/recap/recap4-trap/short.mp4"
+      "path": "shorts/ja/recap/recap4-trap/short.mp4",
+      "lane": "test_study_lab/0089"
     },
     {
       "id": "tame-gono",
@@ -715,10 +769,12 @@
       "title_en": "Tame Gono Quiz",
       "duration_s": 17.05,
       "resolution": "1080x1920",
-      "winner": "V8 (warning+order-flip, 37/40)",
+      "winner": "V8 (warning+order-flip, 37/40)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
       "pattern_id": "p66-english-tame",
       "curriculum_beat": "不定詞ため用法・語順—誤答警告型",
-      "path": "shorts/ja/eigo/tame-gono/short.mp4"
+      "path": "shorts/ja/eigo/tame-gono/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "asa-condition",
@@ -727,7 +783,7 @@
       "title_en": "ASA Condition Quiz",
       "duration_s": 20.05,
       "resolution": "1080x1920",
-      "winner": "V8 (warning+demo+quiz, 39/40)",
+      "winner": "V8 (warning+demo+quiz, 39/40)+v2 Latin->kana + trust regen (ASR-verified)",
       "pattern_id": "p67-math-asa",
       "curriculum_beat": "ASA合同条件—誤答警告型",
       "path": "shorts/ja/sugaku/asa-condition/short.mp4"
@@ -739,10 +795,11 @@
       "title_en": "Article 9 Quiz",
       "duration_s": 18.05,
       "resolution": "1080x1920",
-      "winner": "V7 (条文quiz+stamp, 39/40)",
+      "winner": "V7 (条文quiz+stamp, 39/40)+lane-voice study30s/8f2b",
       "pattern_id": "p68-civics-article9",
       "curriculum_beat": "9条一項二項—クイズ型",
-      "path": "shorts/ja/shakai/article9-quiz/short.mp4"
+      "path": "shorts/ja/shakai/article9-quiz/short.mp4",
+      "lane": "study30s/8f2b"
     },
     {
       "id": "kofu-bonchi",
@@ -751,10 +808,11 @@
       "title_en": "Kofu Basin Quiz",
       "duration_s": 16.04,
       "resolution": "1080x1920",
-      "winner": "V1 (盆地core, 39/40)",
+      "winner": "V1 (盆地core, 39/40)+lane-voice study30s/8f2b",
       "pattern_id": "p69-geography-bonchi",
       "curriculum_beat": "盆地の定義—クイズ型",
-      "path": "shorts/ja/shakai/kofu-bonchi/short.mp4"
+      "path": "shorts/ja/shakai/kofu-bonchi/short.mp4",
+      "lane": "study30s/8f2b"
     },
     {
       "id": "okinawa-1972",
@@ -763,10 +821,11 @@
       "title_en": "Okinawa 1972 Quiz",
       "duration_s": 23.15,
       "resolution": "1080x1920",
-      "winner": "V7 (timeline×warning, 39/40)",
+      "winner": "V7 (timeline×warning, 39/40)+lane-voice study30s/8f2b",
       "pattern_id": "p70-history-okinawa",
       "curriculum_beat": "1951/68/72—年表×警告",
-      "path": "shorts/ja/shakai/okinawa-1972/short.mp4"
+      "path": "shorts/ja/shakai/okinawa-1972/short.mp4",
+      "lane": "study30s/8f2b"
     },
     {
       "id": "ikusei-3tips",
@@ -775,10 +834,11 @@
       "title_en": "Cultivation Tips",
       "duration_s": 21.06,
       "resolution": "1080x1920",
-      "winner": "V6 (core+warning fusion, 39/40)",
+      "winner": "V6 (core+warning fusion, 39/40)+trust-regen concrete hooks + sharp CTA",
       "pattern_id": "p71-tech-bio",
       "curriculum_beat": "生物育成・環境3点—クイズ型",
-      "path": "shorts/ja/joho/ikusei-3tips/short.mp4"
+      "path": "shorts/ja/joho/ikusei-3tips/short.mp4",
+      "trust": "pass"
     },
     {
       "id": "data-median",
@@ -799,10 +859,12 @@
       "title_en": "Moon Quiz",
       "duration_s": 20.05,
       "resolution": "1080x1920",
-      "winner": "V6 (warning+verdict+chips, 39/40)",
+      "winner": "V6 (warning+verdict+chips, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice senseim0m0-Momo/0089",
       "pattern_id": "p73-science-space",
       "curriculum_beat": "満ち欠け・太陽系—総復習型",
-      "path": "shorts/ja/rika/space-mikazuki/short.mp4"
+      "path": "shorts/ja/rika/space-mikazuki/short.mp4",
+      "lane": "senseim0m0-Momo/0089",
+      "trust": "pass"
     },
     {
       "id": "konkyo-sagashi",
@@ -811,10 +873,12 @@
       "title_en": "Evidence Quiz",
       "duration_s": 20.16,
       "resolution": "1080x1920",
-      "winner": "V6 (warning+quiz fusion, 39/40)",
+      "winner": "V6 (warning+quiz fusion, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
       "pattern_id": "p74-kokugo-dokkai",
       "curriculum_beat": "説明文の根拠—クイズ型",
-      "path": "shorts/ja/kokugo/konkyo-sagashi/short.mp4"
+      "path": "shorts/ja/kokugo/konkyo-sagashi/short.mp4",
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "teishutsu-mieruka",
@@ -823,10 +887,12 @@
       "title_en": "Submit Tracker Quiz",
       "duration_s": 18.56,
       "resolution": "1080x1920",
-      "winner": "V6 (warning+table+保存CTA, 39/40)",
+      "winner": "V6 (warning+table+保存CTA, 39/40)+trust-regen concrete hooks + save CTA+lane-voice test_study_lab/0089",
       "pattern_id": "p75-manabi-teishutsu",
       "curriculum_beat": "提出物管理—保存CTA型",
-      "path": "shorts/ja/manabi/teishutsu-mieruka/short.mp4"
+      "path": "shorts/ja/manabi/teishutsu-mieruka/short.mp4",
+      "lane": "test_study_lab/0089",
+      "trust": "pass"
     },
     {
       "id": "ryoji-saiban",
@@ -835,14 +901,16 @@
       "title_en": "Consul Trap Quiz",
       "duration_s": 22.25,
       "resolution": "1080x1920",
-      "winner": "PILOT study30s (trust pass, sharp, 39/40)",
+      "winner": "PILOT study30s (trust pass, sharp, 39/40)+lane-voice study30s/8f2b",
       "pattern_id": "pilot-soc",
       "curriculum_beat": "領事裁判権—変な点step-pick",
       "path": "shorts/ja/shakai/ryoji-saiban/short.mp4",
       "cta": {
         "kind": "step-pick",
         "expected": "2"
-      }
+      },
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     },
     {
       "id": "muryo-gacha",
@@ -858,7 +926,8 @@
       "cta": {
         "kind": "step-pick",
         "expected": "2"
-      }
+      },
+      "trust": "pass"
     },
     {
       "id": "renritsu-kainashi",
@@ -874,7 +943,8 @@
       "cta": {
         "kind": "step-pick",
         "expected": "2"
-      }
+      },
+      "trust": "pass"
     },
     {
       "id": "furiko-shuki",
@@ -883,14 +953,16 @@
       "title_en": "Pendulum Quiz",
       "duration_s": 21.06,
       "resolution": "1080x1920",
-      "winner": "PILOT lab (trust pass, sharp, 39/40)",
+      "winner": "PILOT lab (trust pass, sharp, 39/40)+lane-voice senseim0m0-Momo/0089",
       "pattern_id": "pilot-lab",
       "curriculum_beat": "周期vs重さ—一語型",
       "path": "shorts/ja/rika/furiko-shuki/short.mp4",
       "cta": {
         "kind": "trap-word",
         "expected": "ビー"
-      }
+      },
+      "lane": "senseim0m0-Momo/0089",
+      "trust": "pass"
     },
     {
       "id": "jutsugo-dore",
@@ -899,14 +971,16 @@
       "title_en": "Predicate Quiz",
       "duration_s": 17.75,
       "resolution": "1080x1920",
-      "winner": "PILOT study30s (trust pass, sharp, 39/40)",
+      "winner": "PILOT study30s (trust pass, sharp, 39/40)+lane-voice study30s/8f2b",
       "pattern_id": "pilot-koku",
       "curriculum_beat": "述語の見分け—step-pick",
       "path": "shorts/ja/kokugo/jutsugo-dore/short.mp4",
       "cta": {
         "kind": "step-pick",
         "expected": "1"
-      }
+      },
+      "lane": "study30s/8f2b",
+      "trust": "pass"
     }
   ],
   "lessons": [
