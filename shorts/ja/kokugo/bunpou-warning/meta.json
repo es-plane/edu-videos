@@ -5,8 +5,9 @@
   "title_en": "Keiyodoushi Trap",
   "duration_s": 16.55,
   "resolution": "1080x1920",
-  "winner": "V7 (誤答警告+example, 34/35)",
+  "winner": "V7 (誤答警告+example, 34/35)+trust-regen concrete hooks + sharp CTA",
   "pattern_id": "p29-kokugo-bunpou",
   "curriculum_beat": "形容動詞の見分け—誤答警告型",
-  "path": "shorts/ja/kokugo/bunpou-warning/short.mp4"
+  "path": "shorts/ja/kokugo/bunpou-warning/short.mp4",
+  "trust": "pass"
 }
