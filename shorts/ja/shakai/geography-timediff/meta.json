@@ -8,5 +8,6 @@
   "winner": "V8/g8",
   "pattern_id": "p10-geography-timediff",
   "curriculum_beat": "時差の計算—東へ進むと時刻が進む、日付変更線",
-  "path": "shorts/ja/shakai/geography-timediff/short.mp4"
+  "path": "shorts/ja/shakai/geography-timediff/short.mp4",
+  "lane": "legacy-45c5-pending-rebuild"
 }

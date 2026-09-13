@@ -10,5 +10,6 @@
   "curriculum_beat": "測って比べて動かす—クイズつきv2",
   "path": "shorts/ja/joho/sensor-control-v2/short.mp4",
   "version": 2,
-  "supersedes": "sensor-control"
+  "supersedes": "sensor-control",
+  "lane": "keep-45c5"
 }

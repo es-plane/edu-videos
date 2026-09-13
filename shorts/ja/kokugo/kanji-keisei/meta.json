@@ -8,5 +8,6 @@
   "winner": "V8/k8",
   "pattern_id": "p11-kokugo-kanji",
   "curriculum_beat": "象形・指事・会意・形声を1例ずつ（山・上・休・晴）",
-  "path": "shorts/ja/kokugo/kanji-keisei/short.mp4"
+  "path": "shorts/ja/kokugo/kanji-keisei/short.mp4",
+  "lane": "legacy-45c5-pending-rebuild"
 }

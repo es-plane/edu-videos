@@ -13,5 +13,6 @@
     "kind": "step-pick",
     "expected": "2"
   },
-  "trust": "pass"
+  "trust": "pass",
+  "lane": "keep-45c5"
 }

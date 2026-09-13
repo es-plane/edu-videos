@@ -8,5 +8,6 @@
   "winner": "V7/ox7",
   "pattern_id": "p05-science-oxidize",
   "curriculum_beat": "酸化で酸素と結びつくと質量が増える（質量保存）",
-  "path": "shorts/ja/rika/oxidize-mass/short.mp4"
+  "path": "shorts/ja/rika/oxidize-mass/short.mp4",
+  "lane": "legacy-45c5-pending-rebuild"
 }
