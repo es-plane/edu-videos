@@ -5,9 +5,10 @@
   "title_en": "Heavier When Burned",
   "duration_s": 12.05,
   "resolution": "1080x1920",
-  "winner": "V7/ox7",
+  "winner": "LEGACY-REBUILD senseim0m0-Momo/0089 (trust-pass sharp 39/40, ASR-verified)",
   "pattern_id": "p05-science-oxidize",
   "curriculum_beat": "酸化で酸素と結びつくと質量が増える（質量保存）",
   "path": "shorts/ja/rika/oxidize-mass/short.mp4",
-  "lane": "legacy-45c5-pending-rebuild"
+  "lane": "senseim0m0-Momo/0089",
+  "trust": "pass"
 }
