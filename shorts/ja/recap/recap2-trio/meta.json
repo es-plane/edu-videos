@@ -5,8 +5,9 @@
   "title_en": "Recap Trio",
   "duration_s": 19.56,
   "resolution": "1080x1920",
-  "winner": "V8 (warning+diagram+quiz, 39/40)",
+  "winner": "V8 (warning+diagram+quiz, 39/40)+trust-regen concrete hooks + sharp CTA",
   "pattern_id": "p48-recap-2",
   "curriculum_beat": "合同+確率+憲法—総復習",
-  "path": "shorts/ja/recap/recap2-trio/short.mp4"
+  "path": "shorts/ja/recap/recap2-trio/short.mp4",
+  "trust": "pass"
 }
