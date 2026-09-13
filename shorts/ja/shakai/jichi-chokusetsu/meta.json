@@ -1,0 +1,18 @@
+{
+  "id": "jichi-chokusetsu",
+  "subject": "shakai",
+  "title_ja": "直接請求の変な点",
+  "title_en": "Direct Petition Quiz",
+  "duration_s": 26.56,
+  "resolution": "1080x1920",
+  "winner": "p79 V1 (39/40)",
+  "pattern_id": "p79-chihojichi-jichi",
+  "curriculum_beat": "直接請求—step-pick",
+  "path": "shorts/ja/shakai/jichi-chokusetsu/short.mp4",
+  "cta": {
+    "kind": "step-pick",
+    "expected": "2"
+  },
+  "trust": "pass",
+  "lane": "study30s/8f2b"
+}

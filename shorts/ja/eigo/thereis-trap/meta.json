@@ -1,0 +1,18 @@
+{
+  "id": "thereis-trap",
+  "subject": "eigo",
+  "title_ja": "ゼアイズかゼアアか",
+  "title_en": "There Is Quiz",
+  "duration_s": 24.55,
+  "resolution": "1080x1920",
+  "winner": "p80 V1 core (39/40)",
+  "pattern_id": "p80-thereis-yubun",
+  "curriculum_beat": "There is/are単複—step-pick",
+  "path": "shorts/ja/eigo/thereis-trap/short.mp4",
+  "cta": {
+    "kind": "step-pick",
+    "expected": "1"
+  },
+  "trust": "pass",
+  "lane": "study30s/8f2b"
+}

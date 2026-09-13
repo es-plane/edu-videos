@@ -1,0 +1,18 @@
+{
+  "id": "sanpeiho-345",
+  "subject": "sugaku",
+  "title_ja": "三平方で5になるのは",
+  "title_en": "Pythagoras Quiz",
+  "duration_s": 20.54,
+  "resolution": "1080x1920",
+  "winner": "p78 V2 diagram-first (39/40)",
+  "pattern_id": "p78-sanpeiho-kyori",
+  "curriculum_beat": "3-4-5斜辺—step-pick",
+  "path": "shorts/ja/sugaku/sanpeiho-345/short.mp4",
+  "cta": {
+    "kind": "step-pick",
+    "expected": "1"
+  },
+  "trust": "pass",
+  "lane": "techtech331/45c5"
+}

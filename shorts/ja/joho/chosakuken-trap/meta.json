@@ -1,0 +1,18 @@
+{
+  "id": "chosakuken-trap",
+  "subject": "joho",
+  "title_ja": "著作権の危ない載せ方",
+  "title_en": "Copyright Trap",
+  "duration_s": 22.06,
+  "resolution": "1080x1920",
+  "winner": "p76 V0 (39/40)",
+  "pattern_id": "p76-chosakuken-copylane",
+  "curriculum_beat": "著作権発生・無断転載—step-pick",
+  "path": "shorts/ja/joho/chosakuken-trap/short.mp4",
+  "cta": {
+    "kind": "step-pick",
+    "expected": "2"
+  },
+  "trust": "pass",
+  "lane": "techtech331/45c5"
+}
