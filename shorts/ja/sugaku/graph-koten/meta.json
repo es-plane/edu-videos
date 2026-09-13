@@ -5,9 +5,10 @@
   "title_en": "Intersection Quiz",
   "duration_s": 17.05,
   "resolution": "1080x1920",
-  "winner": "V8 (quiz shell+draw-on, 39/40)",
+  "winner": "V8 (quiz shell+draw-on, 39/40)+caption-drift-fix",
   "pattern_id": "p63-math-graph",
   "curriculum_beat": "連立の解=交点—クイズ旗艦",
   "path": "shorts/ja/sugaku/graph-koten/short.mp4",
-  "lane": "keep-45c5"
+  "lane": "keep-45c5",
+  "sync": "drift-audited"
 }

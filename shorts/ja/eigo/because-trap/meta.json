@@ -5,10 +5,11 @@
   "title_en": "Because Trap",
   "duration_s": 17.56,
   "resolution": "1080x1920",
-  "winner": "V8 (警告+contrast+why, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
+  "winner": "V8 (警告+contrast+why, 39/40)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b+caption-drift-fix",
   "pattern_id": "p55-english-connect",
   "curriculum_beat": "because後ろは文—誤答警告型",
   "path": "shorts/ja/eigo/because-trap/short.mp4",
   "trust": "pass",
-  "lane": "study30s/8f2b"
+  "lane": "study30s/8f2b",
+  "sync": "drift-audited"
 }

@@ -5,9 +5,10 @@
   "title_en": "Six States Quiz",
   "duration_s": 18.05,
   "resolution": "1080x1920",
-  "winner": "V7 (map-teaser hook, 39/40)+lane-voice study30s/8f2b",
+  "winner": "V7 (map-teaser hook, 39/40)+lane-voice study30s/8f2b+caption-drift-fix",
   "pattern_id": "p54-geography-world",
   "curriculum_beat": "六大州マップ—クイズ型",
   "path": "shorts/ja/shakai/world-6states/short.mp4",
-  "lane": "study30s/8f2b"
+  "lane": "study30s/8f2b",
+  "sync": "drift-audited"
 }
