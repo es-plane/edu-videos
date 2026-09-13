@@ -5,9 +5,10 @@
   "title_en": "Opening Quiz: Black Ships year",
   "duration_s": 15.36,
   "resolution": "1080x1920",
-  "winner": "V4 (年号クイズ 1853/1854)+sharp CTA upgrade (ASR-verified)",
+  "winner": "V4 (年号クイズ 1853/1854)+sharp CTA upgrade (ASR-verified)+lane-voice study30s/8f2b",
   "pattern_id": "p27-history-kaikoku-meiji",
   "curriculum_beat": "ペリー来航1853・日米和親条約1854のQ→Aクイズ",
   "path": "shorts/ja/shakai/kaikoku-quiz/short.mp4",
-  "trust": "pass"
+  "trust": "pass",
+  "lane": "study30s/8f2b"
 }
