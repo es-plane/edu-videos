@@ -5,8 +5,9 @@
   "title_en": "Comparative Quiz",
   "duration_s": 11.05,
   "resolution": "1080x1920",
-  "winner": "V7 (quiz+why-strip, 38/40)",
+  "winner": "V7 (quiz+why-strip, 38/40)+lane-voice study30s/8f2b",
   "pattern_id": "p34-english-comparison",
   "curriculum_beat": "比較級taller/more tall選択クイズ",
-  "path": "shorts/ja/eigo/comparison-taller/short.mp4"
+  "path": "shorts/ja/eigo/comparison-taller/short.mp4",
+  "lane": "study30s/8f2b"
 }
