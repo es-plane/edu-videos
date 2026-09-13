@@ -5,8 +5,9 @@
   "title_en": "Shindo vs Magnitude",
   "duration_s": 18.05,
   "resolution": "1080x1920",
-  "winner": "V7 (options-prime hook, 39/40)",
+  "winner": "V7 (options-prime hook, 39/40)+trust-regen concrete hooks + sharp CTA",
   "pattern_id": "p44-science-quake",
   "curriculum_beat": "震度vsマグニチュード—誤答警告型",
-  "path": "shorts/ja/rika/quake-shindo/short.mp4"
+  "path": "shorts/ja/rika/quake-shindo/short.mp4",
+  "trust": "pass"
 }

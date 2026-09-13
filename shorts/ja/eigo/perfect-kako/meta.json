@@ -5,8 +5,9 @@
   "title_en": "Present Perfect Trap",
   "duration_s": 16.04,
   "resolution": "1080x1920",
-  "winner": "V8 (contrast hook, 39/40)",
+  "winner": "V8 (contrast hook, 39/40)+trust-regen concrete hooks + sharp CTA",
   "pattern_id": "p45-english-perfect",
   "curriculum_beat": "現在完了vs過去形—誤答警告型",
-  "path": "shorts/ja/eigo/perfect-kako/short.mp4"
+  "path": "shorts/ja/eigo/perfect-kako/short.mp4",
+  "trust": "pass"
 }
