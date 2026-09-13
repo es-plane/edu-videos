@@ -5,8 +5,9 @@
   "title_en": "Cold Front Quiz",
   "duration_s": 19.05,
   "resolution": "1080x1920",
-  "winner": "V7 (warning+quiz, 39/40)",
+  "winner": "V7 (warning+quiz, 39/40)+trust-regen concrete hooks + sharp CTA",
   "pattern_id": "p58-science-front",
   "curriculum_beat": "温暖vs寒冷前線—誤答警告型",
-  "path": "shorts/ja/rika/front-kanrei/short.mp4"
+  "path": "shorts/ja/rika/front-kanrei/short.mp4",
+  "trust": "pass"
 }

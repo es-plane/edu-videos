@@ -5,8 +5,9 @@
   "title_en": "Modifier Trap",
   "duration_s": 19.05,
   "resolution": "1080x1920",
-  "winner": "V8 (trap+why-strip, 39/40)",
+  "winner": "V8 (trap+why-strip, 39/40)+trust-regen concrete hooks + sharp CTA",
   "pattern_id": "p59-kokugo-seibun",
   "curriculum_beat": "修飾語の見分け—誤答警告型",
-  "path": "shorts/ja/kokugo/shushoku-trap/short.mp4"
+  "path": "shorts/ja/kokugo/shushoku-trap/short.mp4",
+  "trust": "pass"
 }
