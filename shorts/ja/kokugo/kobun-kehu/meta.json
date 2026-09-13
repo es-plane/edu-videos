@@ -5,8 +5,9 @@
   "title_en": "Kobun Reading Trap",
   "duration_s": 16.04,
   "resolution": "1080x1920",
-  "winner": "V7 (誤答+CTA, 39/40)",
+  "winner": "V7 (誤答+CTA, 39/40)+lane-voice study30s/8f2b",
   "pattern_id": "p39-kokugo-kobun",
   "curriculum_beat": "歴史的仮名遣い—誤答警告型",
-  "path": "shorts/ja/kokugo/kobun-kehu/short.mp4"
+  "path": "shorts/ja/kokugo/kobun-kehu/short.mp4",
+  "lane": "study30s/8f2b"
 }
