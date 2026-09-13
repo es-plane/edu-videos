@@ -1,0 +1,18 @@
+{
+  "id": "infinitive-quiz-v2",
+  "subject": "eigo",
+  "title_ja": "不定詞:答えを言わないクイズ",
+  "title_en": "Infinitive Withheld Quiz",
+  "duration_s": 23.55,
+  "resolution": "1080x1920",
+  "winner": "v2.4-slop pilot (39/40, no reveal-then-ask, transfer-Q CTA)",
+  "pattern_id": "pilot-t7v2",
+  "curriculum_beat": "不定詞 to+原形—見本で教えて本番は withholding + He cans swim transfer",
+  "path": "shorts/ja/eigo/infinitive-quiz-v2/short.mp4",
+  "cta": {
+    "kind": "transfer-q",
+    "expected": "can"
+  },
+  "trust": "pass",
+  "lane": "study30s/8f2b"
+}
