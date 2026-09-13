@@ -5,8 +5,9 @@
   "title_en": "Revenue vs Spending",
   "duration_s": 18.05,
   "resolution": "1080x1920",
-  "winner": "V7 (confusion-preview, 39/40)",
+  "winner": "V7 (confusion-preview, 39/40)+lane-voice study30s/8f2b",
   "pattern_id": "p64-civics-finance",
   "curriculum_beat": "歳入と歳出—クイズ型",
-  "path": "shorts/ja/shakai/finance-flow/short.mp4"
+  "path": "shorts/ja/shakai/finance-flow/short.mp4",
+  "lane": "study30s/8f2b"
 }

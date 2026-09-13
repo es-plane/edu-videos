@@ -5,8 +5,9 @@
   "title_en": "Direct vs Indirect Tax",
   "duration_s": 18.56,
   "resolution": "1080x1920",
-  "winner": "V7 (hook+answer-stamp, 39/40)",
+  "winner": "V7 (hook+answer-stamp, 39/40)+lane-voice study30s/8f2b",
   "pattern_id": "p57-civics-tax",
   "curriculum_beat": "直接税vs間接税—クイズ型",
-  "path": "shorts/ja/shakai/tax-chokusetsu/short.mp4"
+  "path": "shorts/ja/shakai/tax-chokusetsu/short.mp4",
+  "lane": "study30s/8f2b"
 }

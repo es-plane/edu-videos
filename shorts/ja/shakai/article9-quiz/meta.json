@@ -5,8 +5,9 @@
   "title_en": "Article 9 Quiz",
   "duration_s": 18.05,
   "resolution": "1080x1920",
-  "winner": "V7 (条文quiz+stamp, 39/40)",
+  "winner": "V7 (条文quiz+stamp, 39/40)+lane-voice study30s/8f2b",
   "pattern_id": "p68-civics-article9",
   "curriculum_beat": "9条一項二項—クイズ型",
-  "path": "shorts/ja/shakai/article9-quiz/short.mp4"
+  "path": "shorts/ja/shakai/article9-quiz/short.mp4",
+  "lane": "study30s/8f2b"
 }
