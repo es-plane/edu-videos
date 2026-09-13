@@ -5,9 +5,10 @@
   "title_en": "Tame Gono Quiz",
   "duration_s": 17.05,
   "resolution": "1080x1920",
-  "winner": "V8 (warning+order-flip, 37/40)+trust-regen concrete hooks + sharp CTA",
+  "winner": "V8 (warning+order-flip, 37/40)+trust-regen concrete hooks + sharp CTA+lane-voice study30s/8f2b",
   "pattern_id": "p66-english-tame",
   "curriculum_beat": "不定詞ため用法・語順—誤答警告型",
   "path": "shorts/ja/eigo/tame-gono/short.mp4",
-  "trust": "pass"
+  "trust": "pass",
+  "lane": "study30s/8f2b"
 }
