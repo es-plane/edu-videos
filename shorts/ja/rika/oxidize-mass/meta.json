@@ -8,7 +8,9 @@
   "winner": "NGEN (REBUILD-BRIEF v1・対比教授・36/40)",
   "pattern_id": "p05-science-oxidize",
   "curriculum_beat": "酸素付加と気体散逸の対比",
-  "path": "shorts/ja/rika/oxidize-mass/short.mp4",
+  "path": "https://edu-media.keita-ccc.workers.dev/v1/oxidize-mass/d49831ab7abf86c7.mp4",
   "lane": "senseim0m0-Momo/0089",
-  "trust": "pass"
+  "trust": "pass",
+  "r2key": "v1/oxidize-mass/d49831ab7abf86c7.mp4",
+  "fingerprint": "d49831ab7abf86c7"
 }

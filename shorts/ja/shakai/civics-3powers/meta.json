@@ -8,7 +8,9 @@
   "winner": "NGEN (REBUILD-BRIEF v1・直接教授・36/40)",
   "pattern_id": "p08-civics-3powers",
   "curriculum_beat": "立法国会・行政内閣・司法裁判所—集中防止",
-  "path": "shorts/ja/shakai/civics-3powers/short.mp4",
+  "path": "https://edu-media.keita-ccc.workers.dev/v1/civics-3powers/a172525d9c18c783.mp4",
   "lane": "study30s/8f2b",
-  "trust": "pass"
+  "trust": "pass",
+  "r2key": "v1/civics-3powers/a172525d9c18c783.mp4",
+  "fingerprint": "a172525d9c18c783"
 }

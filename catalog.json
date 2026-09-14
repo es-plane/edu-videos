@@ -34,8 +34,10 @@
       "winner": "NGEN (REBUILD-BRIEF v1・対比教授・36/40)",
       "pattern_id": "p05-science-oxidize",
       "curriculum_beat": "酸素付加と気体散逸の対比",
-      "path": "shorts/ja/rika/oxidize-mass/short.mp4",
-      "lane": "legacy-45c5-pending-rebuild"
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/oxidize-mass/d49831ab7abf86c7.mp4",
+      "lane": "legacy-45c5-pending-rebuild",
+      "r2key": "v1/oxidize-mass/d49831ab7abf86c7.mp4",
+      "fingerprint": "d49831ab7abf86c7"
     },
     {
       "id": "civics-3powers",
@@ -47,8 +49,10 @@
       "winner": "NGEN (REBUILD-BRIEF v1・直接教授・36/40)",
       "pattern_id": "p08-civics-3powers",
       "curriculum_beat": "立法国会・行政内閣・司法裁判所—集中防止",
-      "path": "shorts/ja/shakai/civics-3powers/short.mp4",
-      "lane": "legacy-45c5-pending-rebuild"
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/civics-3powers/a172525d9c18c783.mp4",
+      "lane": "legacy-45c5-pending-rebuild",
+      "r2key": "v1/civics-3powers/a172525d9c18c783.mp4",
+      "fingerprint": "a172525d9c18c783"
     },
     {
       "id": "inequality-flip",
@@ -60,8 +64,10 @@
       "winner": "NGEN v3 (minus-reading fix + animated transform + 36/40)",
       "pattern_id": "p50-math-inequality",
       "curriculum_beat": "minus flips order: procedure plus check",
-      "path": "shorts/ja/sugaku/inequality-flip/short.mp4",
-      "lane": "keep-45c5"
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/inequality-flip/77f85acd6397e212.mp4",
+      "lane": "keep-45c5",
+      "r2key": "v1/inequality-flip/77f85acd6397e212.mp4",
+      "fingerprint": "77f85acd6397e212"
     }
   ],
   "lessons": [
@@ -69,29 +75,37 @@
       "id": "lesson1-ja",
       "title_ja": "レッスン1 — 秘密をアップロードするな",
       "title_en": "Lesson 1 JA — Stop Uploading Secrets",
-      "path": "lessons/lesson1-ja-voiced.mp4",
-      "lang": "ja"
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/lesson1-ja/bbf6b0f150c03dda.mp4",
+      "lang": "ja",
+      "r2key": "v1/lesson1-ja/bbf6b0f150c03dda.mp4",
+      "fingerprint": "bytes:bbf6b0f150c03dda"
     },
     {
       "id": "lesson1-en",
       "title_ja": "Lesson 1 EN — Stop Uploading Secrets",
       "title_en": "Lesson 1 — Stop Uploading Secrets",
-      "path": "lessons/lesson1-voiced.mp4",
-      "lang": "en"
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/lesson1-en/276132df24713be5.mp4",
+      "lang": "en",
+      "r2key": "v1/lesson1-en/276132df24713be5.mp4",
+      "fingerprint": "bytes:276132df24713be5"
     },
     {
       "id": "lesson2-en",
       "title_ja": "Lesson 2 EN — Base64 Is Not Encryption",
       "title_en": "Lesson 2 — Base64 Is Not Encryption",
-      "path": "lessons/lesson2-voiced.mp4",
-      "lang": "en"
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/lesson2-en/6f69935f0e70da8d.mp4",
+      "lang": "en",
+      "r2key": "v1/lesson2-en/6f69935f0e70da8d.mp4",
+      "fingerprint": "bytes:6f69935f0e70da8d"
     },
     {
       "id": "lesson-sanken-20min",
       "title_ja": "三権分立20分マスター(社会・公民)",
       "title_en": "Separation of Powers 20-min",
-      "path": "lessons/lesson-sanken-20min.mp4",
-      "lang": "ja"
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/lesson-sanken-20min/375414f06dcb72a4.mp4",
+      "lang": "ja",
+      "r2key": "v1/lesson-sanken-20min/375414f06dcb72a4.mp4",
+      "fingerprint": "375414f06dcb72a4"
     }
   ],
   "compat_root_urls": [
