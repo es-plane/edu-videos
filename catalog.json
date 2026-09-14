@@ -85,6 +85,13 @@
       "title_en": "Lesson 2 — Base64 Is Not Encryption",
       "path": "lessons/lesson2-voiced.mp4",
       "lang": "en"
+    },
+    {
+      "id": "lesson-sanken-20min",
+      "title_ja": "三権分立20分マスター(社会・公民)",
+      "title_en": "Separation of Powers 20-min",
+      "path": "lessons/lesson-sanken-20min.mp4",
+      "lang": "ja"
     }
   ],
   "compat_root_urls": [
