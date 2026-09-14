@@ -1,13 +1,13 @@
 {
   "id": "civics-3powers",
   "subject": "shakai",
-  "title_ja": "三権分立",
+  "title_ja": "三権分立・仕組みを教えるよ",
   "title_en": "Separation of Powers",
-  "duration_s": 15.06,
+  "duration_s": 21.16,
   "resolution": "1080x1920",
-  "winner": "LEGACY-REBUILD study30s/8f2b (trust-pass sharp 39/40, ASR-verified)",
+  "winner": "NGEN (REBUILD-BRIEF v1・直接教授・36/40)",
   "pattern_id": "p08-civics-3powers",
-  "curriculum_beat": "国会・内閣・裁判所—権力を分けて集中を防ぐ",
+  "curriculum_beat": "立法国会・行政内閣・司法裁判所—集中防止",
   "path": "shorts/ja/shakai/civics-3powers/short.mp4",
   "lane": "study30s/8f2b",
   "trust": "pass"

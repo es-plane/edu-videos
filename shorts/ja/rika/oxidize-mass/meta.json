@@ -1,13 +1,13 @@
 {
   "id": "oxidize-mass",
   "subject": "rika",
-  "title_ja": "燃やしたのに重い",
+  "title_ja": "さびは足し算・燃焼は引き算",
   "title_en": "Heavier When Burned",
-  "duration_s": 12.05,
+  "duration_s": 21.06,
   "resolution": "1080x1920",
-  "winner": "LEGACY-REBUILD senseim0m0-Momo/0089 (trust-pass sharp 39/40, ASR-verified)",
+  "winner": "NGEN (REBUILD-BRIEF v1・対比教授・36/40)",
   "pattern_id": "p05-science-oxidize",
-  "curriculum_beat": "酸化で酸素と結びつくと質量が増える（質量保存）",
+  "curriculum_beat": "酸素付加と気体散逸の対比",
   "path": "shorts/ja/rika/oxidize-mass/short.mp4",
   "lane": "senseim0m0-Momo/0089",
   "trust": "pass"

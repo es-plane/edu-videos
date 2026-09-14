@@ -1,13 +1,13 @@
 {
   "id": "inequality-flip",
   "subject": "sugaku",
-  "title_ja": "不等式クイズ:向きはどっち",
+  "title_ja": "不等式の反転・理由つき",
   "title_en": "Inequality Flip Quiz",
-  "duration_s": 21.06,
+  "duration_s": 20.05,
   "resolution": "1080x1920",
-  "winner": "V8 (quiz shell+rule strip, 39/40)",
+  "winner": "NGEN (REBUILD-BRIEF v1・理由つき教授・38/40)",
   "pattern_id": "p50-math-inequality",
-  "curriculum_beat": "負で割ると反転—クイズ旗艦",
+  "curriculum_beat": "マイナスで大小逆転—X<-3・検算",
   "path": "shorts/ja/sugaku/inequality-flip/short.mp4",
   "lane": "keep-45c5"
 }
