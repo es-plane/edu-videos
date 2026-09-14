@@ -1,13 +1,13 @@
 {
   "id": "history-sankin",
   "subject": "shakai",
-  "title_ja": "参勤交代",
+  "title_ja": "参勤交代は出費が理由",
   "title_en": "Sankin-kōtai",
-  "duration_s": 21.06,
+  "duration_s": 19.46,
   "resolution": "1080x1920",
-  "winner": "LEGACY-REBUILD study30s/8f2b (trust-pass sharp 39/40, ASR-verified)+persona裏取りおじさん(取調中/裏取済stamp)",
+  "winner": "ACT-remake 2026-09-14 (コメント誘導除去・直接教授)",
   "pattern_id": "p09-history-edo-2",
-  "curriculum_beat": "参勤交代の3点因果—人質・単身赴任・出費で260年の安定",
+  "curriculum_beat": "参勤交代3点—理由は出費",
   "path": "shorts/ja/shakai/history-sankin/short.mp4",
   "lane": "study30s/8f2b",
   "trust": "pass"
