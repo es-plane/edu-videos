@@ -55,11 +55,11 @@
       "subject": "sugaku",
       "title_ja": "不等式の反転・理由つき",
       "title_en": "Inequality Flip Quiz",
-      "duration_s": 20.05,
+      "duration_s": 22.06,
       "resolution": "1080x1920",
-      "winner": "NGEN (REBUILD-BRIEF v1・理由つき教授・38/40)",
+      "winner": "NGEN v2 (procedure-transfer)",
       "pattern_id": "p50-math-inequality",
-      "curriculum_beat": "マイナスで大小逆転—X<-3・検算",
+      "curriculum_beat": "minus flips order: procedure plus check",
       "path": "shorts/ja/sugaku/inequality-flip/short.mp4",
       "lane": "keep-45c5"
     }
