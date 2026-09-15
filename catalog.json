@@ -83,6 +83,21 @@
       "lane": "techtech331",
       "r2key": "v1/equation-move/5ab3ec88d34013d7.mp4",
       "fingerprint": "5ab3ec88d34013d7"
+    },
+    {
+      "id": "angle-vertical",
+      "subject": "sugaku",
+      "title_ja": "対頂角は等しい・なぜ",
+      "title_en": "Vertical angles are equal",
+      "duration_s": 26.1,
+      "resolution": "1080x1920",
+      "winner": "NGEN v1 (MATH-DESIGN: SVG figure + reason)",
+      "pattern_id": "p52-math-angle-vertical",
+      "curriculum_beat": "a+c=b+c=180: reasoned equality",
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/angle-vertical/e959f6adf6484e27.mp4",
+      "lane": "techtech331",
+      "r2key": "v1/angle-vertical/e959f6adf6484e27.mp4",
+      "fingerprint": "e959f6adf6484e27"
     }
   ],
   "lessons": [
