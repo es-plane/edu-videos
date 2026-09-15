@@ -113,6 +113,21 @@
       "lane": "test_study_lab",
       "r2key": "v1/space-mikazuki/58c80dbac3e589c0.mp4",
       "fingerprint": "58c80dbac3e589c0"
+    },
+    {
+      "id": "simultaneous-elimination",
+      "subject": "sugaku",
+      "title_ja": "連立方程式・加減法で消す",
+      "title_en": "Elimination by Adding",
+      "duration_s": 27.9,
+      "resolution": "1080x1920",
+      "winner": "NGEN v1 (MATH-DESIGN: code-editor colors + math italic)",
+      "pattern_id": "p54-math-simelim",
+      "curriculum_beat": "add to cancel: y-coefficients plus-minus-one",
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/simultaneous-elimination/cd709321a5ff77b9.mp4",
+      "lane": "techtech331",
+      "r2key": "v1/simultaneous-elimination/cd709321a5ff77b9.mp4",
+      "fingerprint": "cd709321a5ff77b9"
     }
   ],
   "lessons": [
