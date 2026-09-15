@@ -104,15 +104,15 @@
       "subject": "rika",
       "title_ja": "満ち欠けの理由・照る半分",
       "title_en": "Why the moon phases",
-      "duration_s": 25.7,
+      "duration_s": 23.6,
       "resolution": "1080x1920",
-      "winner": "NGEN v2 (RIKA-DESIGN notebook)",
+      "winner": "NGEN v3 (no-kensan + kanji-tenmon)",
       "pattern_id": "p53-rika-moon-phase",
       "curriculum_beat": "lit half plus viewing angle",
-      "path": "https://edu-media.keita-ccc.workers.dev/v1/space-mikazuki/123e7a8deafc3a40.mp4",
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/space-mikazuki/e2012f2966e0679c.mp4",
       "lane": "test_study_lab",
-      "r2key": "v1/space-mikazuki/123e7a8deafc3a40.mp4",
-      "fingerprint": "123e7a8deafc3a40"
+      "r2key": "v1/space-mikazuki/e2012f2966e0679c.mp4",
+      "fingerprint": "e2012f2966e0679c"
     }
   ],
   "lessons": [
