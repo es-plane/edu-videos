@@ -68,6 +68,21 @@
       "lane": "keep-45c5",
       "r2key": "v1/inequality-flip/98f8b2dbac39fc71.mp4",
       "fingerprint": "98f8b2dbac39fc71"
+    },
+    {
+      "id": "equation-move",
+      "subject": "sugaku",
+      "title_ja": "方程式・移項は符号反転",
+      "title_en": "Transposition flips sign",
+      "duration_s": 26.6,
+      "resolution": "1080x1920",
+      "winner": "NGEN v1 (MATH-DESIGN: code-editor colors + math italic)",
+      "pattern_id": "p51-math-equation-move",
+      "curriculum_beat": "move flips sign: procedure plus check",
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/equation-move/5ab3ec88d34013d7.mp4",
+      "lane": "techtech331",
+      "r2key": "v1/equation-move/5ab3ec88d34013d7.mp4",
+      "fingerprint": "5ab3ec88d34013d7"
     }
   ],
   "lessons": [
