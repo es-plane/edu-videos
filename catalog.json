@@ -59,15 +59,15 @@
       "subject": "sugaku",
       "title_ja": "不等式の反転・理由つき",
       "title_en": "Inequality Flip Quiz",
-      "duration_s": 22.55,
+      "duration_s": 22.6,
       "resolution": "1080x1920",
-      "winner": "NGEN v3 (minus-reading fix + animated transform + 36/40)",
+      "winner": "NGEN v5 (MATH-DESIGN: code-editor colors + math italic)",
       "pattern_id": "p50-math-inequality",
       "curriculum_beat": "minus flips order: procedure plus check",
-      "path": "https://edu-media.keita-ccc.workers.dev/v1/inequality-flip/77f85acd6397e212.mp4",
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/inequality-flip/98f8b2dbac39fc71.mp4",
       "lane": "keep-45c5",
-      "r2key": "v1/inequality-flip/77f85acd6397e212.mp4",
-      "fingerprint": "77f85acd6397e212"
+      "r2key": "v1/inequality-flip/98f8b2dbac39fc71.mp4",
+      "fingerprint": "98f8b2dbac39fc71"
     }
   ],
   "lessons": [
