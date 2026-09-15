@@ -31,13 +31,13 @@
       "title_en": "Heavier When Burned",
       "duration_s": 21.1,
       "resolution": "1080x1920",
-      "winner": "NGEN v2 (mass-bar animation + gothic)",
+      "winner": "NGEN v3 (RIKA-DESIGN notebook)",
       "pattern_id": "p05-science-oxidize",
       "curriculum_beat": "酸素付加と気体散逸の対比",
-      "path": "https://edu-media.keita-ccc.workers.dev/v1/oxidize-mass/c40fd93764324bf0.mp4",
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/oxidize-mass/4d296a16c137a913.mp4",
       "lane": "legacy-45c5-pending-rebuild",
-      "r2key": "v1/oxidize-mass/c40fd93764324bf0.mp4",
-      "fingerprint": "c40fd93764324bf0"
+      "r2key": "v1/oxidize-mass/4d296a16c137a913.mp4",
+      "fingerprint": "4d296a16c137a913"
     },
     {
       "id": "civics-3powers",
@@ -106,13 +106,13 @@
       "title_en": "Why the moon phases",
       "duration_s": 23.6,
       "resolution": "1080x1920",
-      "winner": "NGEN v3 (no-kensan + kanji-tenmon)",
+      "winner": "NGEN v4 (no-margin + kanji-rika)",
       "pattern_id": "p53-rika-moon-phase",
       "curriculum_beat": "lit half plus viewing angle",
-      "path": "https://edu-media.keita-ccc.workers.dev/v1/space-mikazuki/e2012f2966e0679c.mp4",
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/space-mikazuki/58c80dbac3e589c0.mp4",
       "lane": "test_study_lab",
-      "r2key": "v1/space-mikazuki/e2012f2966e0679c.mp4",
-      "fingerprint": "e2012f2966e0679c"
+      "r2key": "v1/space-mikazuki/58c80dbac3e589c0.mp4",
+      "fingerprint": "58c80dbac3e589c0"
     }
   ],
   "lessons": [
