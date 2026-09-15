@@ -106,13 +106,13 @@
       "title_en": "Why the moon phases",
       "duration_s": 25.7,
       "resolution": "1080x1920",
-      "winner": "NGEN v1 (SVG sky figure + reason)",
+      "winner": "NGEN v2 (RIKA-DESIGN notebook)",
       "pattern_id": "p53-rika-moon-phase",
       "curriculum_beat": "lit half plus viewing angle",
-      "path": "https://edu-media.keita-ccc.workers.dev/v1/space-mikazuki/06254ebcb5f88ce7.mp4",
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/space-mikazuki/123e7a8deafc3a40.mp4",
       "lane": "test_study_lab",
-      "r2key": "v1/space-mikazuki/06254ebcb5f88ce7.mp4",
-      "fingerprint": "06254ebcb5f88ce7"
+      "r2key": "v1/space-mikazuki/123e7a8deafc3a40.mp4",
+      "fingerprint": "123e7a8deafc3a40"
     }
   ],
   "lessons": [
