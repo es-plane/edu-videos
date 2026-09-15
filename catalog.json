@@ -156,20 +156,6 @@
       "resolution": "1920x1080",
       "curriculum_beat": "国会・内閣・裁判所・抑制均衡・入試8問",
       "lane": "study30s"
-    },
-    {
-      "id": "lesson-equation-first",
-      "title_ja": "一次方程式マスター・式変形版(数学)",
-      "title_en": "Linear Equations Master",
-      "duration_s": 376.7,
-      "resolution": "1920x1080",
-      "subject": "sugaku",
-      "curriculum_beat": "等式性質・移項・分配・検算・文章題",
-      "lane": "techtech331",
-      "lang": "ja",
-      "path": "https://edu-media.keita-ccc.workers.dev/v1/lesson-equation-first/9b78e118a6f05854.mp4",
-      "r2key": "v1/lesson-equation-first/9b78e118a6f05854.mp4",
-      "fingerprint": "9b78e118a6f05854"
     }
   ],
   "compat_root_urls": [
