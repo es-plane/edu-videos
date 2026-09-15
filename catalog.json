@@ -170,6 +170,20 @@
       "path": "https://edu-media.keita-ccc.workers.dev/v1/lesson-equation-20min/3a24982d40e6db70.mp4",
       "r2key": "v1/lesson-equation-20min/3a24982d40e6db70.mp4",
       "fingerprint": "3a24982d40e6db70"
+    },
+    {
+      "id": "lesson-mass-conservation",
+      "title_ja": "質量保存マスター・図解版(理科・化学変化)",
+      "title_en": "Law of Conservation of Mass Master",
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/lesson-mass-conservation/c4a4160fbe84bfab.mp4",
+      "lang": "ja",
+      "r2key": "v1/lesson-mass-conservation/c4a4160fbe84bfab.mp4",
+      "fingerprint": "c4a4160fbe84bfab",
+      "duration_s": 402.3,
+      "subject": "rika",
+      "resolution": "1920x1080",
+      "curriculum_beat": "化学変化・沈殿・気体・比の計算・混同三点",
+      "lane": "test_study_lab"
     }
   ],
   "compat_root_urls": [
