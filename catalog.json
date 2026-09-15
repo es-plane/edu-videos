@@ -1,7 +1,7 @@
 {
   "title": "edu-videos NGEN — 中学向けショート教材（新世代）",
   "lang": "ja",
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "pages_url": "https://es-plane.github.io/edu-videos/",
   "subjects_order": [
     "joho",
@@ -100,12 +100,13 @@
     },
     {
       "id": "lesson-sanken-20min",
-      "title_ja": "三権分立20分マスター(社会・公民)",
+      "title_ja": "三権分立マスター・図解版(社会・公民)",
       "title_en": "Separation of Powers 20-min",
-      "path": "https://edu-media.keita-ccc.workers.dev/v1/lesson-sanken-20min/375414f06dcb72a4.mp4",
+      "path": "https://edu-media.keita-ccc.workers.dev/v1/lesson-sanken-20min/19d6113f0d9d7877.mp4",
       "lang": "ja",
-      "r2key": "v1/lesson-sanken-20min/375414f06dcb72a4.mp4",
-      "fingerprint": "375414f06dcb72a4"
+      "r2key": "v1/lesson-sanken-20min/19d6113f0d9d7877.mp4",
+      "fingerprint": "19d6113f0d9d7877",
+      "duration_s": 708.46
     }
   ],
   "compat_root_urls": [
